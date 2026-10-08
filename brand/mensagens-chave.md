@@ -40,14 +40,16 @@
 - "Técnica atualizada e cuidado com cada caso."
 - (⚠️ nunca "garanto resultado".)
 
-## 5. Mensagens de prova (reason to believe) — ⏳ dependem de dados reais
+## 5. Mensagens de prova (reason to believe)
 
-- Experiência/tempo de atuação: ⏳
-- Formação/títulos: ⏳
-- Casos/atuações autorizados a comunicar: ⏳
-- Participações/autoridade: ⏳
+- ✅ **Experiência:** 17 anos em Direito Previdenciário (F14). Ângulo: "17 anos ajudando
+  pessoas a acessar e proteger seus direitos no INSS."
+- ✅ **Identificação:** OAB/RJ 154.954.
+- ⏳ Formação/títulos: coletar.
+- ⏳ Casos/atuações autorizados a comunicar: coletar (com autorização e ética).
 
-> Preencher só com dados confirmados (`docs/01`). Não inventar.
+> Preencher só com dados confirmados (`docs/01`). Não inventar. "17 anos" é ângulo de
+> autoridade, nunca promessa de resultado (`docs/13`).
 
 ## 6. Objeções comuns e respostas (Chris Voss / Blair Warren)
 

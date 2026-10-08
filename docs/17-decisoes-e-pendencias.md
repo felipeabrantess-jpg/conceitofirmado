@@ -32,6 +32,7 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 | **F11** | **Atua em todas as 7 áreas previdenciárias** (tem domínio de todas) | Cliente 08/10 | docs/05 |
 | **F12** | Elisangela cuida **apenas da parte jurídica**; decisões de tecnologia/marketing são da equipe | Cliente 08/10 | operations/ |
 | **F13** | **OAB/RJ 154.954** (inscrição — identificação oficial) | Cliente 08/10 | docs/13, docs/08, brand/handle-e-dominio |
+| **F14** | **17 anos de experiência** em Direito Previdenciário | Cliente 08/10 | docs/02, docs/06, site/ |
 
 ---
 
@@ -58,8 +59,8 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 | **D17** | **Paleta fechada** com HEX e contraste WCAG verificado; dourado nunca como texto sobre marfim | docs/03, brand/direcao-visual | 08/10 |
 | **D18** | **Tipografia:** Playfair Display (títulos) + Mulish (texto), Google Fonts | docs/03, brand/direcao-visual | 08/10 |
 | **D19** | **Logo:** conceito tipográfico (nome + descritor) + monograma "EF" com filete dourado; sem símbolo jurídico | docs/03 | 08/10 |
-| **D20** | **Handle IG (proposta):** `@elisangelafonseca.adv` como 1ª opção (aguarda aprovação + disponibilidade) | brand/handle-e-dominio, docs/06 | 08/10 |
-| **D21** | **Domínio (estratégia):** `elisangelafonseca.adv.br` principal (.adv.br exige OAB → credibilidade) + `.com.br` redirect | brand/handle-e-dominio, docs/08 | 08/10 |
+| **D20** | **Handle IG APROVADO:** `@elisangelafonseca.adv` (confirmar disponibilidade no cadastro) | brand/handle-e-dominio, docs/06 | 08/10 |
+| **D21** | **Domínio APROVADO:** `elisangelafonseca.adv.br` principal (registrável com OAB/RJ 154.954) + `.com.br` redirect | brand/handle-e-dominio, docs/08 | 08/10 |
 
 > Decisões valem até serem revistas. Ao revisar, registrar nova linha e marcar a antiga como
 > "substituída em DD/MM".
@@ -125,6 +126,7 @@ Só o essencial para identificação e página "Sobre", que a equipe não tem co
 | 08/10/2026 | **Mudança de modelo para full-service.** Novos fatos F9–F12 (zero, Niterói+online, todas as áreas, cliente só jurídica). Decisões D13–D16 (full-service, praça, cobertura total, priorização de receita). Questionário aposentado (`operations/questionario-cliente.md` removido; Claude Doc mantido como registro, a pedido do cliente). Pendências de dados da cliente reduzidas ao mínimo de identidade. | Xquads Chief |
 | 08/10/2026 | **Fundação da identidade:** D17–D19 (paleta com contraste verificado, tipografia Playfair+Mulish, conceito de logo). D20–D21 (handle e domínio propostos; `brand/handle-e-dominio.md`). Disponibilidade de domínio não checável no ambiente (rede bloqueia WHOIS/RDAP) — confirmar no registrador. | Xquads Chief |
 | 08/10/2026 | **OAB/RJ 154.954 recebida** (F13). Destrava registro do `.adv.br`. Pendência de identidade reduzida a formação/títulos + ensaio. | Xquads Chief |
+| 08/10/2026 | **Handle e domínio aprovados** pelo cliente (D20 `@elisangelafonseca.adv`, D21 `elisangelafonseca.adv.br`). **F14: 17 anos de experiência** — usar como prova de autoridade na bio e no "Sobre". | Xquads Chief |
 
 > **Como atualizar:** ao registrar algo novo, adicione a linha na tabela certa, date, e anote
 > aqui no histórico. Decisão que substitui outra: marque a antiga como substituída.

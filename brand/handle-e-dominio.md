@@ -4,9 +4,9 @@
 > pesquisável), `docs/06` (Instagram) e `docs/08` (site).
 > Última atualização: 08/10/2026.
 
-> Status: 🎯 **propostas para aprovação**. Disponibilidade de domínio **não pôde ser checada**
-> aqui (a política de rede do ambiente bloqueia WHOIS/RDAP); confirmar no registrador. Handle
-> do Instagram só se confirma no cadastro do app.
+> Status: ✅ **APROVADOS** pelo cliente (08/10): handle `@elisangelafonseca.adv` e domínio
+> `elisangelafonseca.adv.br`. Falta apenas confirmar disponibilidade (Instagram no cadastro;
+> domínio no registro.br — não checável aqui, a rede do ambiente bloqueia WHOIS/RDAP).
 
 ---
 
@@ -18,7 +18,7 @@ categoria "Advogada Previdenciária". Handle e domínio curtos, fáceis de ditar
 
 | Prioridade | Handle | Observação |
 |-----------|--------|------------|
-| **1 (recomendado)** | `@elisangelafonseca.adv` | Limpo, sinaliza advogada, fácil de lembrar |
+| **✅ APROVADO** | `@elisangelafonseca.adv` | Limpo, sinaliza advogada, fácil de lembrar |
 | 2 | `@dra.elisangelafonseca` | Reforça autoridade ("Dra.") |
 | 3 | `@elisangelafonseca.prev` | Sinaliza previdenciário |
 | 4 | `@adv.elisangelafonseca` | Variante do #1 |
@@ -39,6 +39,6 @@ categoria "Advogada Previdenciária". Handle e domínio curtos, fáceis de ditar
 - ⏳ Verificar disponibilidade no registro.br e registrar.
 
 ## 4. Pendências
-- ⏳ Aprovar handle e domínio preferidos.
-- ⏳ Confirmar disponibilidade (Instagram no app; domínio no registro.br).
+- ✅ Handle e domínio aprovados (D20/D21).
+- ⏳ Confirmar disponibilidade (Instagram no app; domínio no registro.br) e registrar.
 - ✅ OAB para registrar o `.adv.br`: OAB/RJ 154.954.

@@ -20,17 +20,18 @@ de captação; é prova de domínio + relacionamento.
 
 - **Nome (pesquisável):** `Elisangela Fonseca | Advogada Previdenciária` — casa busca por
   nome + categoria (campo "nome" indexa na busca do Instagram).
-- **@handle:** ⏳ definir disponibilidade. Sugestões: `@elisangelafonseca.adv`,
-  `@dra.elisangelafonseca`, `@elisangelafonseca.prev`. Preferir curto, sem números aleatórios.
+- **@handle (🎯 APROVADO — D20):** `@elisangelafonseca.adv` (confirmar disponibilidade no
+  cadastro do app).
 - **Foto:** retrato profissional na direção visual bordô (ver `docs/03`).
-- **Bio (🔬 rascunho para validar):**
-  > Advogada previdenciária 💼
-  > Direitos do INSS explicados sem juridiquês
+- **Bio (🎯 final — dentro de 150 caracteres, compliance OK):**
+  > Advogada previdenciária · OAB/RJ 154.954
+  > 17 anos ajudando você com o INSS, sem juridiquês
   > Aposentadoria · BPC/LOAS · Incapacidade · Maternidade
-  > 📍 Niterói/RJ · Atendimento presencial e online
+  > Niterói/RJ · presencial e online
   > 👇 Tire sua dúvida
 - **Link principal:** página de links/site (ver `docs/08`). ⏳ definir ferramenta e destino.
-- ⚠️ A bio não pode prometer resultado nem captar de forma agressiva (`docs/13`).
+- ⚠️ A bio é informativa: cita experiência (17 anos) como autoridade, **sem** prometer
+  resultado nem captar de forma agressiva (`docs/13`). "17 anos" é fato (F14), não promessa.
 
 ---
 
@@ -42,7 +43,8 @@ Ordem e nomes casando com os territórios de marca:
 
 - Capas na paleta bordô/marfim com ícone dourado (consistência visual).
 - "Comece aqui": explica quem é, o que resolve e como tirar dúvida (sem captação agressiva).
-- "Sobre": trajetória/credibilidade (após coletar dados reais — `docs/01`).
+- "Sobre": trajetória/credibilidade — já dá para usar 17 anos de experiência (F14) e OAB/RJ
+  154.954; complementar com formação (`docs/01`).
 - "Perguntas": FAQ visual por tema.
 
 ---

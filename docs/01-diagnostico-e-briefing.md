@@ -21,7 +21,8 @@ executa o resto. **Não há questionário.**
 | Cobertura de áreas | ✅ | **Todas as 7** áreas previdenciárias |
 | Papel da cliente | ✅ | **Apenas jurídico**; tecnologia/marketing é da equipe |
 | OAB (nº/seccional) | ✅ | OAB/RJ 154.954 |
-| Formação/títulos | ⏳ | Coletar (página "Sobre") |
+| Experiência | ✅ | 17 anos em Direito Previdenciário |
+| Formação/títulos | ⏳ | Coletar graduação/pós/especializações (página "Sobre") |
 | Fotos profissionais | ⏳ | **Ação da equipe:** ensaio em Niterói |
 
 > ⚠️ Não inventar dados da cliente. O que falta é só o mínimo de identidade (OAB, formação),
