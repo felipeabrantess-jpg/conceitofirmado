@@ -1,5 +1,9 @@
 # Lote 01 — Produção de Artes (prontos para colar)
 
+> **Designs no Canva** (montados pela integração): Post 1 — apresentação →
+> https://canva.link/mbff5xithrkrpjx (design `DAHXdZu2vxI`). Primeira versão gerada; ajustes
+> de cor exata da paleta e inserção da foto no card 1 em andamento.
+
 > Dono: Design (`design-squad`) + Conteúdo. Complementa `content/lote-01-feed.md` (legenda,
 > hashtags, CTA). Identidade: `docs/03`, `brand/direcao-visual.md`.
 > Última atualização: 08/10/2026.
