@@ -93,7 +93,11 @@ Não existe logo anterior (cliente começa do zero — F9), então construímos 
 - Composição deixa **espaço para texto** (para capas de Reels/carrossel).
 - Evitar bancos de imagem clichê de "justiça". Preferir retratos reais + detalhes de
   ambiente de trabalho sofisticado.
-- ⏳ Agendar ensaio fotográfico profissional (pendência operacional e de custo).
+- ✅ **Primeiro retrato profissional recebido** (real, fundo bordô) —
+  `brand/assets/elisangela-retrato-01.webp`. Aprovado para avatar e card 1 do Post 1.
+- 🔬 Ajustes sugeridos: uniformizar o leve brilho alaranjado no canto superior direito para o
+  bordô da paleta; gerar versão com espaço ao lado do rosto para encaixar texto (carrossel).
+- ⏳ Ensaio com mais ângulos/planos (meio corpo, ambiente) para variar o conteúdo.
 
 ---
 

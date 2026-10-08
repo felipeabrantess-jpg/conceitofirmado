@@ -22,7 +22,8 @@ de captação; é prova de domínio + relacionamento.
   nome + categoria (campo "nome" indexa na busca do Instagram).
 - **@handle (🎯 APROVADO — D20):** `@elisangelafonseca.adv` (confirmar disponibilidade no
   cadastro do app).
-- **Foto:** retrato profissional na direção visual bordô (ver `docs/03`).
+- **Foto:** ✅ retrato profissional real aprovado (`brand/assets/elisangela-retrato-01.webp`,
+  fundo bordô) — usar no avatar (ver `docs/03`).
 - **Bio (🎯 final — dentro de 150 caracteres, compliance OK):**
   > Advogada previdenciária · OAB/RJ 154.954
   > 17 anos ajudando você com o INSS, sem juridiquês

@@ -91,7 +91,9 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 Só o essencial para identificação e página "Sobre", que a equipe não tem como inventar:
 - ✅ OAB/RJ 154.954 (recebido 08/10 — F13).
 - ⏳ Formação/títulos (graduação, pós, especializações) para a página "Sobre".
-- ⏳ Fotos profissionais — **ação da equipe:** agendar ensaio em Niterói (custo).
+- ✅/⏳ Foto profissional: **1 retrato real recebido** e aprovado
+  (`brand/assets/elisangela-retrato-01.webp`). Ainda ⏳ versões com espaço p/ texto e mais
+  ângulos/planos (ensaio).
 > Tudo o mais que antes seria perguntado passa a ser **definido pela equipe** (D13).
 
 ### 4.2 Compliance (a cliente, como advogada, valida)
@@ -129,6 +131,7 @@ Só o essencial para identificação e página "Sobre", que a equipe não tem co
 | 08/10/2026 | **Handle e domínio aprovados** pelo cliente (D20 `@elisangelafonseca.adv`, D21 `elisangelafonseca.adv.br`). **F14: 17 anos de experiência** — usar como prova de autoridade na bio e no "Sobre". | Xquads Chief |
 | 08/10/2026 | **Lote 01 de conteúdo** produzido (`content/lote-01-feed.md`): 9 posts do feed com roteiro, legenda, hashtags, CTA e arte, no compliance. Aguarda revisão técnica jurídica (Elisangela) e produção das artes. | Xquads Chief |
 | 08/10/2026 | **Produção de artes do Lote 01** (`content/lote-01-producao.md`): dizeres (texto exato na arte) e prompts de imagem card a card, prontos para gerar no ChatGPT (modelo full-service: criamos tudo). Regras: foto da advogada é real, não IA; texto conferido/ajustado no Canva se necessário. | Xquads Chief |
+| 08/10/2026 | **Produção reescrita** em prompts completos (sem montagem) + fundos sem texto (ChatGPT) e dizeres aplicados no Canva. **1º retrato profissional real recebido e aprovado** (`brand/assets/elisangela-retrato-01.webp`) para avatar e card 1. | Xquads Chief |
 
 > **Como atualizar:** ao registrar algo novo, adicione a linha na tabela certa, date, e anote
 > aqui no histórico. Decisão que substitui outra: marque a antiga como substituída.
