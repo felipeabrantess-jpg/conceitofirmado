@@ -22,7 +22,10 @@ Arquivos de marca do projeto Elisangela Fonseca. Especificações em `../direcao
 > rosto, cabelo, óculos, pele, roupa ou pose, e nunca "embeleze" — tem que continuar sendo ela.
 > Suba a foto `elisangela-retrato-01.webp` e cole o prompt.
 
-**A) Uniformizar o fundo**
+**Principal — Foto de perfil (avatar 1:1)** — usar este primeiro
+`Edite esta foto para ser a foto de perfil oficial de uma advogada. Mantenha a pessoa exatamente como está — mesmo rosto, cabelo, óculos, pele, expressão, maquiagem, blazer branco e pose. Não altere nenhum traço, não rejuvenesça e não "embeleze": tem que continuar sendo ela, de forma realista e natural. Ajuste apenas: Fundo bordô profundo #5B1A2B totalmente uniforme e liso, removendo o brilho alaranjado do canto superior direito, com iluminação de estúdio suave e homogênea. Acabamento de retrato profissional, nítido, cores elegantes e naturais, pele com textura real (sem plastificar). Enquadramento quadrado 1:1, pessoa centralizada, da cabeça aos ombros, com folga ao redor para caber no recorte circular do perfil do Instagram sem cortar o rosto nem o cabelo. Sem texto, sem logotipo e sem elementos gráficos.`
+
+**A) Uniformizar o fundo (sem mudar enquadramento)**
 `Edite esta foto mantendo a pessoa exatamente igual — rosto, cabelo, óculos, roupa e pose intactos, sem alterar nenhum traço. Mexa só no fundo: deixe o bordô profundo #5B1A2B totalmente uniforme, removendo o brilho alaranjado do canto superior direito. Iluminação de estúdio suave e homogênea. Não adicione texto nem elementos.`
 
 **B) Versão com espaço para texto (carrossel 4:5)**
