@@ -1,8 +1,9 @@
 # Lote 01 — Produção de Artes (dizeres + prompts de imagem)
 
 > Dono: Design (`design-squad`) + Conteúdo. Complementa `content/lote-01-feed.md` (que tem
-> roteiro, legenda, hashtags e CTA). **Aqui ficam os dizeres (texto exato na arte) e os
-> prompts de imagem para gerar no ChatGPT.** Identidade: `docs/03`, `brand/direcao-visual.md`.
+> roteiro, legenda, hashtags e CTA). **Divisão de trabalho:** o ChatGPT gera **somente a
+> imagem (fundo/visual, SEM texto)**; os **dizeres** (texto da arte) e a legenda saem daqui e
+> são aplicados por nós no Canva sobre a imagem. Identidade: `docs/03`, `brand/direcao-visual.md`.
 > Última atualização: 08/10/2026.
 
 > Compliance: os dizeres já estão no padrão (`docs/13`) — informativos, sem promessa. Itens
@@ -11,43 +12,47 @@
 ---
 
 ## Como usar (passo a passo)
-1. Abra o ChatGPT (gerador de imagem).
-2. Cole o **PROMPT-BASE** (abaixo) + o **prompt do card** que você quer gerar.
+1. No ChatGPT (gerador de imagem), cole o **PROMPT-BASE** (abaixo) + o **prompt do card**.
+2. O ChatGPT devolve só o **fundo/visual, sem texto**, com áreas limpas reservadas.
 3. Gere em **4:5 (1080×1350)** para feed/carrossel e **9:16 (1080×1920)** para capa de Reel.
-4. Confira o texto na imagem. **Se o ChatGPT errar o texto** (acentos, palavras), peça "gere
-   sem nenhum texto" e adicione o texto depois no Canva com as fontes Playfair Display
-   (títulos) e Mulish (apoio). As cores e o texto exato estão aqui.
+4. No **Canva**, coloque por cima o **DIZER** daquele card (está aqui, já pronto) usando
+   Playfair Display (títulos) e Mulish (apoio), nas cores da paleta.
 5. Legenda, hashtags e CTA de cada post estão em `content/lote-01-feed.md`.
+
+> Por que sem texto na imagem: gerador de IA erra acento e palavra. Mantendo a imagem só como
+> fundo e aplicando o texto no Canva, a arte sai perfeita e 100% no padrão da marca.
 
 ## Regras globais (valem para tudo)
 - **Proporção:** carrossel/feed 4:5; capa de Reel 9:16.
+- **Imagem SEM texto, SEM letras, SEM números** — só o visual/fundo com espaço para texto.
 - **Paleta (HEX):** bordô `#5B1A2B`, vinho `#3E121E`, rosé `#9E5A66`, marfim `#F5EFE6`,
   dourado `#C9A24B` (só detalhe fino, nunca dominante).
 - **Nunca** usar rosto de pessoa gerado por IA para representar a Elisangela — isso é foto
   real dela (ensaio em Niterói). Onde o card pede a advogada, deixe espaço e insira a foto.
 - **Sem** clichê jurídico (balança, martelo, coluna) e **sem** preto puro (use vinho).
-- Texto grande, muito respiro, elegante, premium. Acentuação correta em português.
+- Composição calma, muito respiro, elegante, premium.
 
 ---
 
 ## PROMPT-BASE (cole antes de cada prompt de card)
 
 ```
-Crie um design de post para Instagram de uma advogada previdenciária, estética editorial
-sofisticada, feminina e minimalista. Paleta exata: bordô profundo #5B1A2B, vinho #3E121E,
-rosé #9E5A66, marfim #F5EFE6 e dourado #C9A24B apenas como filete/detalhe fino. Tipografia:
-título em serifada elegante de alto contraste (estilo Playfair Display) e apoio em sem serifa
-humanista limpa (estilo Mulish). Muito espaço em branco, composição calma e premium. Um
-monograma discreto "EF" em dourado no canto inferior. Sem balança, martelo ou colunas; sem
-preto puro; sem rostos humanos. Proporção 4:5 (1080x1350), alta legibilidade, acentuação
-correta em português. A seguir, o conteúdo deste card:
+Crie uma imagem de FUNDO para post de Instagram de uma advogada previdenciária, estética
+editorial sofisticada, feminina e minimalista. IMPORTANTE: NÃO escreva nenhum texto, letra ou
+número na imagem — apenas o fundo/visual, deixando bastante área limpa para eu inserir o texto
+depois. Paleta exata: bordô profundo #5B1A2B, vinho #3E121E, rosé #9E5A66, marfim #F5EFE6 e
+dourado #C9A24B apenas como filete/detalhe fino. Muito espaço em branco, composição calma e
+premium, textura de papel sutil opcional. Sem balança, martelo ou colunas; sem preto puro; sem
+rostos humanos; sem nenhuma tipografia. Proporção 4:5 (1080x1350). A seguir, o visual deste
+card:
 ```
 
-## Templates de card (referência rápida)
-- **T-CAPA:** fundo bordô; título grande em marfim; filete dourado curto sob o título;
-  pequeno selo "EF" dourado no rodapé.
-- **T-TEXTO:** fundo marfim; título/numero em bordô; texto de apoio em vinho; filete dourado.
-- **T-CTA:** fundo vinho; frase em marfim; selo "EF" e filete dourado.
+## Templates de fundo (referência rápida) — todos SEM texto
+- **T-CAPA:** fundo bordô liso com um filete dourado fino na parte inferior e área central
+  limpa para o título; sutil textura/vinheta.
+- **T-TEXTO:** fundo marfim com um filete dourado fino no topo e amplo espaço limpo para o
+  texto; discreto detalhe vinho na margem.
+- **T-CTA:** fundo vinho profundo, cantos com leve brilho dourado, área central limpa.
 
 ---
 
@@ -82,7 +87,9 @@ correta em português. A seguir, o conteúdo deste card:
 - **Card 6 — T-TEXTO.** DIZER: "5 · Laudos e datas divergentes".
 - **Card 7 — T-CTA.** DIZER: "Negativa não é o fim." + menor: "Salve este post. Dúvida? Me
   chame."
-  Prompt extra (números): "o numeral grande em dourado no canto, discreto."
+
+> Dica de layout (no Canva): nos cards 2 a 6, o numeral grande (1 a 5) entra como texto em
+> dourado, aplicado por nós — não peça números ao ChatGPT.
 
 ---
 
@@ -168,19 +175,20 @@ correta em português. A seguir, o conteúdo deste card:
 
 ---
 
-## Exemplo pronto (copia e cola no ChatGPT) — Capa do Post 2
+## Exemplo pronto (copia e cola no ChatGPT) — fundo da Capa do Post 2
 ```
 [PROMPT-BASE acima]
-Card de capa, fundo bordô profundo #5B1A2B. Título grande centralizado em marfim, serifada
-elegante: "O INSS negou seu auxílio?". Abaixo, um filete dourado fino e, menor, em Mulish:
-"Entenda os motivos mais comuns". Monograma "EF" dourado discreto no rodapé. Muito espaço,
-elegante, premium. 4:5, acentos corretos.
+Fundo de capa em bordô profundo #5B1A2B, liso, com um filete dourado fino na parte inferior e
+uma leve vinheta nas bordas. Área central totalmente limpa (sem texto) para eu inserir o
+título depois. Elegante, premium, minimalista. 4:5. Nenhuma letra ou número na imagem.
 ```
+Depois, no Canva, aplique sobre o fundo o DIZER do card (título "O INSS negou seu auxílio?" +
+apoio "Entenda os motivos mais comuns") em Playfair Display + Mulish, marfim sobre o bordô.
 
 ## Checklist antes de gerar/publicar
 - [ ] Preencher os itens ⏳ RT com a revisão da Elisangela (Post 3: escolher os 3 direitos).
-- [ ] Gerar cada card em 4:5 (ou 9:16 para capa de Reel).
-- [ ] Conferir texto/acentos; se errar, gerar sem texto e compor no Canva.
+- [ ] Gerar cada FUNDO em 4:5 (ou 9:16 para capa de Reel), sem texto.
+- [ ] No Canva, aplicar os DIZERES (Playfair Display + Mulish, cores da paleta).
 - [ ] Trocar os espaços de foto do Post 1 pela foto real (ensaio).
 - [ ] Passar pelo compliance (`docs/13`) e pelo workflow de aprovação.
 - [ ] Legenda/hashtags/CTA: usar `content/lote-01-feed.md`.
