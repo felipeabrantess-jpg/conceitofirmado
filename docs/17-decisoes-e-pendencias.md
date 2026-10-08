@@ -54,6 +54,11 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 | **D14** | **Praça Niterói/RJ + online:** ativa SEO local (Niterói) e GBP, com conteúdo de alcance nacional | docs/09, growth/seo-clusters | 08/10 |
 | **D15** | **Cobrir todas as 7 áreas**, com priorização de receita definida pela equipe (D16) | docs/05 | 08/10 |
 | **D16** | **Priorização de receita (aposta inicial):** Tier 1 = Aposentadorias + Planejamento (motor de receita); Tier 2 = Incapacidade + BPC/LOAS (volume/aquisição); Tier 3 = Especial, Rural, Acidente, Maternidade (diferenciação/cauda longa). Validar com resultados. | docs/05, docs/07, docs/09, docs/10, docs/15 | 08/10 |
+| **D17** | **Paleta fechada** com HEX e contraste WCAG verificado; dourado nunca como texto sobre marfim | docs/03, brand/direcao-visual | 08/10 |
+| **D18** | **Tipografia:** Playfair Display (títulos) + Mulish (texto), Google Fonts | docs/03, brand/direcao-visual | 08/10 |
+| **D19** | **Logo:** conceito tipográfico (nome + descritor) + monograma "EF" com filete dourado; sem símbolo jurídico | docs/03 | 08/10 |
+| **D20** | **Handle IG (proposta):** `@elisangelafonseca.adv` como 1ª opção (aguarda aprovação + disponibilidade) | brand/handle-e-dominio, docs/06 | 08/10 |
+| **D21** | **Domínio (estratégia):** `elisangelafonseca.adv.br` principal (.adv.br exige OAB → credibilidade) + `.com.br` redirect | brand/handle-e-dominio, docs/08 | 08/10 |
 
 > Decisões valem até serem revistas. Ao revisar, registrar nova linha e marcar a antiga como
 > "substituída em DD/MM".
@@ -116,7 +121,8 @@ Só o essencial para identificação e página "Sobre", que a equipe não tem co
 |------|---------|-------|
 | 08/10/2026 | Criação da estrutura e primeira carga de conteúdo (todos os MDs) | Xquads Chief |
 | 08/10/2026 | Questionário client-facing gerado para envio (depois retirado) | Xquads Chief |
-| 08/10/2026 | **Mudança de modelo para full-service.** Novos fatos F9–F12 (zero, Niterói+online, todas as áreas, cliente só jurídica). Decisões D13–D16 (full-service, praça, cobertura total, priorização de receita). Questionário aposentado (`operations/questionario-cliente.md` removido; Claude Doc marcado como obsoleto). Pendências de dados da cliente reduzidas ao mínimo de identidade. | Xquads Chief |
+| 08/10/2026 | **Mudança de modelo para full-service.** Novos fatos F9–F12 (zero, Niterói+online, todas as áreas, cliente só jurídica). Decisões D13–D16 (full-service, praça, cobertura total, priorização de receita). Questionário aposentado (`operations/questionario-cliente.md` removido; Claude Doc mantido como registro, a pedido do cliente). Pendências de dados da cliente reduzidas ao mínimo de identidade. | Xquads Chief |
+| 08/10/2026 | **Fundação da identidade:** D17–D19 (paleta com contraste verificado, tipografia Playfair+Mulish, conceito de logo). D20–D21 (handle e domínio propostos; `brand/handle-e-dominio.md`). Disponibilidade de domínio não checável no ambiente (rede bloqueia WHOIS/RDAP) — confirmar no registrador. | Xquads Chief |
 
 > **Como atualizar:** ao registrar algo novo, adicione a linha na tabela certa, date, e anote
 > aqui no histórico. Decisão que substitui outra: marque a antiga como substituída.

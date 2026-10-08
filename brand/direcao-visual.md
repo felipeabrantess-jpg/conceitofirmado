@@ -4,33 +4,36 @@
 > Documento-par de estratégia: `docs/03-identidade-visual.md` (aqui ficam tokens e componentes).
 > Última atualização: 08/10/2026.
 
-> 🔬 HEX e tipografia abaixo são sugestões de partida a validar (ver `docs/03`).
+> 🎯 HEX e tipografia DECIDIDOS (contraste verificado) — ver `docs/03` para a tabela completa.
 
 ---
 
-## 1. Tokens de cor (🔬)
+## 1. Tokens de cor (🎯 decididos)
 
-```
---bordo-profundo: #5B1A2B;   /* primária */
+```css
+--bordo-profundo: #5B1A2B;   /* primária — títulos, base da marca */
 --vinho:          #3E121E;   /* primária escura / "quase-preto" */
---rose-fechado:   #9E5A66;   /* secundária / apoio feminino */
+--rose-fechado:   #9E5A66;   /* secundária / apoio — texto só grande */
 --marfim:         #F5EFE6;   /* fundo claro base */
---dourado:        #C9A24B;   /* ACENTO — máx ~10% */
---texto-escuro:   #2A0E15;   /* texto sobre claro */
---texto-claro:    #F7F2EA;   /* texto sobre bordô */
+--dourado:        #C9A24B;   /* ACENTO — máx ~10%; nunca texto sobre marfim */
+--texto-escuro:   #2A0E15;   /* corpo sobre marfim (15.67:1, AAA) */
+--texto-claro:    #F7F2EA;   /* texto sobre bordô/vinho (AAA) */
 ```
 
-Regras:
-- Dourado só em detalhes (linhas, ícones, filetes). Nunca blocos grandes.
-- Fundo padrão de leitura: marfim; títulos em bordô/vinho.
-- Verificar contraste AA/AAA (público idoso/baixa visão) — ⏳ validar pares.
+Regras (contraste WCAG verificado — tabela em `docs/03` §2):
+- Dourado só em detalhes (filetes, ícones). **Nunca** texto dourado sobre marfim (2.1:1
+  reprova). Dourado como texto só sobre fundo escuro (AA).
+- Corpo de texto: vinho-tinta sobre marfim. Em fundo bordô/vinho, texto marfim-claro.
+- Rosé é apoio/UI e texto grande; não usar em corpo.
 
-## 2. Tipografia (🔬)
+## 2. Tipografia (🎯 decidida — Google Fonts)
 
-- **Display/títulos:** serifada elegante (didone suave ou serifada humanista).
-- **Texto/UI:** sem serifa humanista de alta legibilidade.
-- **Escala sugerida:** 40/32/24/18/16/14 (desktop); corpos ≥16px; respiro generoso.
-- ⏳ Definir famílias com licença (preferir Google Fonts) e disponibilidade no editor.
+- **Títulos: Playfair Display** (serifada didone). Fallback: Georgia, serif.
+- **Texto/UI: Mulish** (humanista, legível). Fallback: Segoe UI, Arial, sans-serif.
+- **Escala (web):** 44/34/26/20 títulos (Playfair); corpo 17–18, legenda 14 (Mulish);
+  entrelinha 1.5 no corpo.
+- Playfair só em títulos/destaques; corpo sempre Mulish.
+- Ambas disponíveis no Canva (a cliente consegue produzir sozinha depois).
 
 ## 3. Componentes (Atomic Design)
 
