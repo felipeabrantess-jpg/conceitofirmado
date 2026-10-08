@@ -30,16 +30,15 @@ categoria "Advogada Previdenciária". Handle e domínio curtos, fáceis de ditar
 
 | Prioridade | Domínio | Papel | Nota |
 |-----------|---------|-------|------|
-| **1 (principal)** | `elisangelafonseca.adv.br` | Site oficial | `.adv.br` é **exclusivo de advogados** no Brasil (exige OAB ativa) → sinal de credibilidade. Registro no registro.br com os dados da OAB dela. |
+| **1 (principal)** | `elisangelafonseca.adv.br` | Site oficial | `.adv.br` é **exclusivo de advogados** no Brasil (exige OAB ativa) → sinal de credibilidade. Registrável com **OAB/RJ 154.954** (F13). |
 | 2 | `elisangelafonseca.com.br` | Redirecionar p/ o principal | Protege a marca e capta quem digita `.com.br` |
 | 3 | `elisangelafonseca.com` | Defensivo (se disponível) | Opcional |
 
-- Sinergia: registrar `.adv.br` **depende do número da OAB** — mesma informação mínima que já
-  precisamos coletar (`docs/17` §4.1).
+- ✅ OAB disponível (OAB/RJ 154.954), então o `.adv.br` já pode ser registrado no registro.br.
 - E-mail profissional no domínio (ex.: `contato@elisangelafonseca.adv.br`).
 - ⏳ Verificar disponibilidade no registro.br e registrar.
 
 ## 4. Pendências
 - ⏳ Aprovar handle e domínio preferidos.
 - ⏳ Confirmar disponibilidade (Instagram no app; domínio no registro.br).
-- ⏳ Coletar nº da OAB para registrar o `.adv.br`.
+- ✅ OAB para registrar o `.adv.br`: OAB/RJ 154.954.

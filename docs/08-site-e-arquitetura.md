@@ -69,7 +69,7 @@ destino de campanha em `site/landing-pages.md`.
   autorizados).
 - Últimos conteúdos.
 - Bloco "Como funciona o atendimento" + CTA ético.
-- Rodapé com dados profissionais, OAB (⏳), política de privacidade (LGPD) e contato.
+- Rodapé com dados profissionais, OAB/RJ 154.954, política de privacidade (LGPD) e contato.
 
 ---
 
@@ -87,7 +87,7 @@ destino de campanha em `site/landing-pages.md`.
 ## 6. Confiança e conformidade
 
 - Página "Sobre" com credibilidade real (⏳ dados).
-- Dados profissionais e OAB visíveis (⏳).
+- Dados profissionais e OAB visíveis (OAB/RJ 154.954).
 - **Política de Privacidade e aviso de cookies** (LGPD — `docs/13`).
 - Formulário de contato com base legal e consentimento; sem captação indevida (`docs/13`).
 

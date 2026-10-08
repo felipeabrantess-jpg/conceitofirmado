@@ -32,8 +32,8 @@ Acidente de trabalho · Rural · Especial. (Cada card → página do benefício.
 **CTA final:** "Ficou com dúvida? Fale comigo." → WhatsApp/contato.
 
 ## 2. Sobre Elisangela
-> ⏳ Preencher com dados confirmados: formação, OAB, trajetória, por que escolheu o
-> previdenciário, valores (clareza, cuidado). Estrutura sugerida:
+> OAB confirmada: OAB/RJ 154.954. ⏳ Preencher com dados pendentes: formação, trajetória, por
+> que escolheu o previdenciário, valores (clareza, cuidado). Estrutura sugerida:
 > - Abertura humana (por que faz o que faz).
 > - Credibilidade (formação/experiência — ⏳).
 > - Como atende (clareza, acolhimento).

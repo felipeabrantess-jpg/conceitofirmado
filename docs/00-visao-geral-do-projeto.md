@@ -101,5 +101,5 @@ KPIs detalhados em `docs/14-metricas-e-kpis.md`.
 - ✅ Briefing recebido e consolidado; modelo full-service definido.
 - ✅ Direção visual (bordô), praça (Niterói+online) e cobertura (todas as áreas) confirmados.
 - 🎯 Estrutura de documentação criada, preenchida e priorizada por retorno.
-- ⏳ Coletar mínimo de identidade (OAB, formação) + ensaio fotográfico em Niterói (`docs/17`).
+- ✅ OAB recebida (OAB/RJ 154.954). ⏳ Falta formação/títulos + ensaio fotográfico em Niterói.
 - ⏳ Validação jurídica/compliance pela própria Elisangela (`docs/13`).

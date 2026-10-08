@@ -20,7 +20,7 @@ executa o resto. **Não há questionário.**
 | Praça | ✅ | **Niterói/RJ presencial + atendimento online** (híbrido) |
 | Cobertura de áreas | ✅ | **Todas as 7** áreas previdenciárias |
 | Papel da cliente | ✅ | **Apenas jurídico**; tecnologia/marketing é da equipe |
-| OAB (nº/seccional) | ⏳ | Coletar (identificação) |
+| OAB (nº/seccional) | ✅ | OAB/RJ 154.954 |
 | Formação/títulos | ⏳ | Coletar (página "Sobre") |
 | Fotos profissionais | ⏳ | **Ação da equipe:** ensaio em Niterói |
 

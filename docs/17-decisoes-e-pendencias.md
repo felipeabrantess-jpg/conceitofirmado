@@ -31,6 +31,7 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 | **F10** | **Praça: Niterói/RJ (presencial) + atendimento online** (modelo híbrido) | Cliente 08/10 | docs/09, docs/04 |
 | **F11** | **Atua em todas as 7 áreas previdenciárias** (tem domínio de todas) | Cliente 08/10 | docs/05 |
 | **F12** | Elisangela cuida **apenas da parte jurídica**; decisões de tecnologia/marketing são da equipe | Cliente 08/10 | operations/ |
+| **F13** | **OAB/RJ 154.954** (inscrição — identificação oficial) | Cliente 08/10 | docs/13, docs/08, brand/handle-e-dominio |
 
 ---
 
@@ -87,7 +88,7 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 
 ### 4.1 Dados mínimos de identidade (coletar com a cliente — não é estratégia)
 Só o essencial para identificação e página "Sobre", que a equipe não tem como inventar:
-- ⏳ Número e seccional da OAB (identificação obrigatória — `docs/13`).
+- ✅ OAB/RJ 154.954 (recebido 08/10 — F13).
 - ⏳ Formação/títulos (graduação, pós, especializações) para a página "Sobre".
 - ⏳ Fotos profissionais — **ação da equipe:** agendar ensaio em Niterói (custo).
 > Tudo o mais que antes seria perguntado passa a ser **definido pela equipe** (D13).
@@ -123,6 +124,7 @@ Só o essencial para identificação e página "Sobre", que a equipe não tem co
 | 08/10/2026 | Questionário client-facing gerado para envio (depois retirado) | Xquads Chief |
 | 08/10/2026 | **Mudança de modelo para full-service.** Novos fatos F9–F12 (zero, Niterói+online, todas as áreas, cliente só jurídica). Decisões D13–D16 (full-service, praça, cobertura total, priorização de receita). Questionário aposentado (`operations/questionario-cliente.md` removido; Claude Doc mantido como registro, a pedido do cliente). Pendências de dados da cliente reduzidas ao mínimo de identidade. | Xquads Chief |
 | 08/10/2026 | **Fundação da identidade:** D17–D19 (paleta com contraste verificado, tipografia Playfair+Mulish, conceito de logo). D20–D21 (handle e domínio propostos; `brand/handle-e-dominio.md`). Disponibilidade de domínio não checável no ambiente (rede bloqueia WHOIS/RDAP) — confirmar no registrador. | Xquads Chief |
+| 08/10/2026 | **OAB/RJ 154.954 recebida** (F13). Destrava registro do `.adv.br`. Pendência de identidade reduzida a formação/títulos + ensaio. | Xquads Chief |
 
 > **Como atualizar:** ao registrar algo novo, adicione a linha na tabela certa, date, e anote
 > aqui no histórico. Decisão que substitui outra: marque a antiga como substituída.

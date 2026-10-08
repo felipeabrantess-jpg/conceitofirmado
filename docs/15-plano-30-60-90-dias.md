@@ -13,8 +13,8 @@
 
 Modelo full-service (D13): a equipe define e executa; a cliente entra só no jurídico. **Sem
 questionário.** Bloqueantes:
-- ⏳ Coletar da cliente o **mínimo de identidade**: OAB (nº/seccional) e formação/títulos
-  (para "Sobre" e identificação). Conversa curta, não questionário.
+- ✅ OAB recebida (OAB/RJ 154.954). ⏳ Falta só formação/títulos (para "Sobre"). Conversa
+  curta, não questionário.
 - ⏳ **Validação jurídica/compliance** pela própria Elisangela (`docs/13`).
 - 🎯 **Equipe decide e registra** (não depende da cliente): handle do Instagram, domínio,
   CMS, paleta/tipografia/logo finais, ferramentas, orçamento, cadência.

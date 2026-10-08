@@ -133,4 +133,4 @@ vulneráveis. Cuidado elevado.
 - ⏳ **Regras de mídia paga/impulsionamento** atuais — bloqueia `docs/10`.
 - ⏳ **Limites de depoimento/prova social** — bloqueia `docs/12` §5.
 - ⏳ **Política de Privacidade** e base legal LGPD — bloqueia formulários e captura.
-- ⏳ Número OAB/seccional para identificação correta.
+- ✅ Número OAB para identificação: OAB/RJ 154.954 (usar em perfil, site, GBP e materiais).

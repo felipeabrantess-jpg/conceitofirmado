@@ -40,9 +40,9 @@ conversa: ela vive aqui e nos documentos de `docs/`, `brand/`, `content/`, `grow
 - ✅ **Cobertura:** atua em **todas as 7 áreas** previdenciárias (domina todas). (F11)
 - ✅ **Papel da cliente:** cuida **apenas da parte jurídica**; decisões de tecnologia e
   marketing são da equipe. (F12)
-- ⏳ **Dados mínimos de identidade a coletar** (não inventáveis): número/seccional da OAB e
-  formação/títulos para a página "Sobre". Fotos: ação da equipe (ensaio em Niterói). Ver
-  `docs/17` §4.1.
+- ✅ **OAB: OAB/RJ 154.954** (identificação oficial). (F13)
+- ⏳ **Dados mínimos de identidade a coletar** (não inventáveis): formação/títulos para a
+  página "Sobre". Fotos: ação da equipe (ensaio em Niterói). Ver `docs/17` §4.1.
 
 > ⚠️ **Modelo full-service (D13):** a equipe define e executa toda a estratégia; a cliente
 > valida apenas o jurídico. **Não há questionário à cliente.** As premissas são decididas por
