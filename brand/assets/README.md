@@ -5,7 +5,8 @@ Arquivos de marca do projeto Elisangela Fonseca. Especificações em `../direcao
 
 | Arquivo | O que é | Status |
 |---------|---------|--------|
-| `elisangela-retrato-01.webp` | Retrato profissional real da Elisangela, fundo bordô | ✅ aprovado para avatar e card 1 do Post 1 |
+| `elisangela-perfil-avatar.webp` | **Foto de perfil oficial** — 1:1, fundo bordô uniforme | ✅ APROVADA (avatar do Instagram/GBP) |
+| `elisangela-retrato-01.webp` | Retrato original (fundo com brilho) | referência; fonte do ajuste |
 
 > Regra: retratos da advogada são **sempre fotos reais**, nunca geradas por IA (ver
 > `../../docs/03-identidade-visual.md`).

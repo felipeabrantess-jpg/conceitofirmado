@@ -91,8 +91,8 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 Só o essencial para identificação e página "Sobre", que a equipe não tem como inventar:
 - ✅ OAB/RJ 154.954 (recebido 08/10 — F13).
 - ⏳ Formação/títulos (graduação, pós, especializações) para a página "Sobre".
-- ✅/⏳ Foto profissional: **1 retrato real recebido** e aprovado
-  (`brand/assets/elisangela-retrato-01.webp`). Ainda ⏳ versões com espaço p/ texto e mais
+- ✅ Foto de perfil oficial pronta e aprovada (`brand/assets/elisangela-perfil-avatar.webp`,
+  1:1, fundo bordô uniforme). ⏳ Ainda: versões com espaço p/ texto (carrossel) e mais
   ângulos/planos (ensaio).
 > Tudo o mais que antes seria perguntado passa a ser **definido pela equipe** (D13).
 
