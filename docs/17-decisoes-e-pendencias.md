@@ -109,6 +109,7 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 | Data | Mudança | Autor |
 |------|---------|-------|
 | 08/10/2026 | Criação da estrutura e primeira carga de conteúdo (todos os MDs) | Xquads Chief (orquestração) |
+| 08/10/2026 | Questionário client-facing gerado para envio à Elisangela (`operations/questionario-cliente.md` + Claude Doc compartilhável). Aguardando respostas para remover pendências da seção 4. | Xquads Chief |
 
 > **Como atualizar:** ao registrar algo novo, adicione a linha na tabela certa (seção 1–4),
 > date, e anote aqui no histórico. Se uma decisão substitui outra, marque a antiga como
