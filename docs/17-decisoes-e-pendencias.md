@@ -127,6 +127,7 @@ Só o essencial para identificação e página "Sobre", que a equipe não tem co
 | 08/10/2026 | **Fundação da identidade:** D17–D19 (paleta com contraste verificado, tipografia Playfair+Mulish, conceito de logo). D20–D21 (handle e domínio propostos; `brand/handle-e-dominio.md`). Disponibilidade de domínio não checável no ambiente (rede bloqueia WHOIS/RDAP) — confirmar no registrador. | Xquads Chief |
 | 08/10/2026 | **OAB/RJ 154.954 recebida** (F13). Destrava registro do `.adv.br`. Pendência de identidade reduzida a formação/títulos + ensaio. | Xquads Chief |
 | 08/10/2026 | **Handle e domínio aprovados** pelo cliente (D20 `@elisangelafonseca.adv`, D21 `elisangelafonseca.adv.br`). **F14: 17 anos de experiência** — usar como prova de autoridade na bio e no "Sobre". | Xquads Chief |
+| 08/10/2026 | **Lote 01 de conteúdo** produzido (`content/lote-01-feed.md`): 9 posts do feed com roteiro, legenda, hashtags, CTA e arte, no compliance. Aguarda revisão técnica jurídica (Elisangela) e produção das artes. | Xquads Chief |
 
 > **Como atualizar:** ao registrar algo novo, adicione a linha na tabela certa, date, e anote
 > aqui no histórico. Decisão que substitui outra: marque a antiga como substituída.
