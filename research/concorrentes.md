@@ -4,16 +4,21 @@
 > `research/oportunidades.md`.
 > Última atualização: 08/10/2026.
 
-> ⏳ Mapa de concorrentes depende da **praça da cliente** (cidade/UF) e de dados de busca
-> reais, ainda pendentes (`docs/01`). Este documento entrega o **método** e o gabarito.
+> Este documento entrega o **método** e o gabarito. ⏳ Falta apenas executar a coleta e obter
+> dados de busca reais (ferramenta).
 
 ---
 
+> ✅ Praça definida (F10/D14): **Niterói/RJ + online**. A concorrência tem duas camadas:
+> **local** (Niterói e região metropolitana do Rio) e **nacional/digital** (quem disputa a
+> busca e a atenção online).
+
 ## 1. Dimensões de concorrência
-- **Local:** advogados(as) previdenciaristas na mesma cidade/região.
-- **Digital/conteúdo:** perfis e sites que ranqueiam e educam no tema (podem ser de outras
-  praças — concorrem por atenção e por busca).
-- **Indireta:** "faça você mesmo" (conteúdo gratuito, INSS digital, despachantes).
+- **Local (Niterói/RJ):** advogados(as) previdenciaristas em Niterói e região metropolitana
+  do Rio; presença em Google Business Profile e no mapa.
+- **Digital/conteúdo (nacional):** perfis e sites que ranqueiam e educam no tema (de qualquer
+  praça) — concorrem por busca e atenção do público online.
+- **Indireta:** "faça você mesmo" (conteúdo gratuito, Meu INSS, despachantes).
 
 ## 2. Gabarito de ficha de concorrente
 ```
@@ -50,6 +55,6 @@ Diferença vs. Elisangela:
 ---
 
 ## Pendências
-- ⏳ Definir praça (cidade/UF) para mapear concorrência local.
+- ✅ Praça definida: Niterói/RJ + online.
+- ⏳ Executar mapa de concorrentes **em Niterói/RJ** (local) e dos perfis digitais nacionais.
 - ⏳ Dados de SERP/busca reais (ferramenta).
-- ⏳ Executar coleta e preencher fichas.

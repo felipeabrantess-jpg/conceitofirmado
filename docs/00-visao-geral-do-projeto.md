@@ -89,10 +89,17 @@ KPIs detalhados em `docs/14-metricas-e-kpis.md`.
 
 ---
 
+## Modelo de trabalho (08/10)
+
+- ✅ Cliente **começa do zero** e cuida **só do jurídico**; a equipe define e executa tudo.
+- ✅ Praça: **Niterói/RJ presencial + online**.
+- ✅ Atua em **todas as 7 áreas**; priorização de receita definida pela equipe (`docs/05` §0).
+- 🎯 **Full-service, sem questionário** à cliente (D13 em `docs/17`).
+
 ## Estado atual
 
-- ✅ Briefing recebido e consolidado.
-- ✅ Direção visual (bordô) e benchmarks declarados definidos pela cliente.
-- 🎯 Estrutura de documentação criada e preenchida (esta entrega).
-- ⏳ Dados operacionais da cliente pendentes (ver `docs/01` e `docs/17`).
-- ⏳ Validação jurídica do compliance pendente (ver `docs/13`).
+- ✅ Briefing recebido e consolidado; modelo full-service definido.
+- ✅ Direção visual (bordô), praça (Niterói+online) e cobertura (todas as áreas) confirmados.
+- 🎯 Estrutura de documentação criada, preenchida e priorizada por retorno.
+- ⏳ Coletar mínimo de identidade (OAB, formação) + ensaio fotográfico em Niterói (`docs/17`).
+- ⏳ Validação jurídica/compliance pela própria Elisangela (`docs/13`).

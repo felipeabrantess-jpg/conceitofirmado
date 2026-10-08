@@ -54,8 +54,8 @@ briefing, não limitantes):
 🎯 A estrutura é **expansível**: cada cluster cresce com long tail de dúvidas reais (fonte:
 caixinha de perguntas do Instagram, "pessoas também perguntam" do Google, WhatsApp).
 
-> ⏳ **Volume/dificuldade reais** dependem de ferramenta de pesquisa de palavra-chave e da
-> praça (cidade/UF) da cliente — pendente.
+> ⏳ **Volume/dificuldade reais** dependem de ferramenta de pesquisa de palavra-chave. Praça
+> já definida (Niterói/RJ + online), então os termos locais já estão mapeados.
 
 ---
 
@@ -68,15 +68,20 @@ caixinha de perguntas do Instagram, "pessoas também perguntam" do Google, Whats
 
 ---
 
-## 5. SEO local (🎯)
+## 5. SEO local (🎯 — ATIVO: Niterói/RJ, F10/D14)
 
-- **Google Business Profile (GBP):** quando aplicável (depende de atendimento presencial/
-  endereço — ⏳). Categoria "Advogado"; área de atendimento; posts; avaliações (dentro da
-  ética — ⚠️ cuidado com depoimentos: `docs/13`).
-- **Páginas locais:** "advogado(a) previdenciário(a) em [cidade/UF]" se fizer sentido.
+A praça é **Niterói/RJ (presencial) + atendimento online**. Isso habilita a dupla jogada:
+captar a região metropolitana do Rio por SEO local e o resto do Brasil por conteúdo nacional.
+
+- **Google Business Profile (GBP):** criar em Niterói. Categoria "Advogado"; área de
+  atendimento (Niterói e região); posts; avaliações dentro da ética (⚠️ depoimentos:
+  `docs/13`).
+- **Páginas locais:** "advogado(a) previdenciário(a) em Niterói" e variações por bairro/
+  região metropolitana quando fizer sentido.
 - **NAP consistente** (nome, endereço, telefone) em site, GBP e diretórios.
-- **Autoridade temática local:** conteúdo que cite realidades regionais quando couber (ex.:
-  rural em região agrícola).
+- **Conteúdo nacional vs. local:** páginas-pilar e artigos de benefício servem o Brasil
+  inteiro (online); páginas e GBP locais capturam a intenção de Niterói/RJ.
+- **Autoridade temática local:** citar realidades da região quando couber.
 
 ---
 
@@ -110,6 +115,6 @@ caixinha de perguntas do Instagram, "pessoas também perguntam" do Google, Whats
 ## 9. Pendências
 
 - ⏳ Ferramenta de pesquisa de palavra-chave e dados de volume/dificuldade.
-- ⏳ Praça (cidade/UF) para SEO local e decisão sobre GBP.
-- ⏳ Acesso/criação de GSC, GA4 e domínio.
+- ✅ Praça definida: Niterói/RJ + online → 🎯 criar GBP em Niterói e páginas locais.
+- ⏳ Acesso/criação de GSC, GA4, GBP e domínio (ação da equipe).
 - ⏳ Revisão técnica jurídica dos artigos antes de publicar.

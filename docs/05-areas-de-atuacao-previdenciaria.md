@@ -14,6 +14,37 @@
 Cada área traz: objetivo de comunicação, público (persona de `docs/04`), dores, dúvidas
 frequentes, ganchos de conteúdo e conexão com SEO/site.
 
+> ✅ **Cobertura (F11/D15):** Elisangela domina e atua em **todas as 7 áreas**. Não limitamos
+> o escopo jurídico. A inteligência está em **priorizar por retorno** (abaixo), concentrando
+> aquisição e receita sem abandonar as demais.
+
+---
+
+## 0. Priorização por retorno (🎯 D16 — aposta inicial da equipe)
+
+Como a cliente começa do zero (sem dados históricos), esta é uma **aposta informada**, não um
+número medido. Será **validada pelo desempenho real** (contatos, ticket, conversão por área —
+`docs/14`) e revista em `docs/17`. Critérios de priorização: **ticket médio × facilidade de
+captação digital × volume de demanda × margem/esforço**, dentro do compliance.
+
+| Tier | Áreas | Papel estratégico | Lógica de retorno |
+|------|-------|-------------------|-------------------|
+| **1 — Motor de receita** | **Aposentadorias + Planejamento Previdenciário** | Foco de receita e autoridade premium | Ticket mais alto; honorários contratuais (consultoria/planejamento), não só êxito; público que se antecipa e valoriza orientação. Alinha com a leitura da própria cliente. |
+| **2 — Volume e aquisição** | **Auxílio por incapacidade temporária + BPC/LOAS** | Porta de entrada / geração de contato | Alta demanda e dor aguda (negativas, urgência) → excelentes para conteúdo, SEO de intenção-problema e tráfego. Ticket variável (muitas vezes por êxito), mas alimentam o topo do funil. |
+| **3 — Diferenciação e cauda longa** | **Aposentadoria especial, rural, acidente de trabalho, salário-maternidade** | Autoridade de nicho + SEO de cauda longa | Demanda mais específica; especial e rural têm bom valor e menos concorrência qualificada; sustentam diferenciação e captam buscas de menor concorrência. |
+
+**Como a priorização se reflete nos canais:**
+- **Conteúdo (`docs/07`):** mais peças e campanhas nos Tiers 1 e 2; Tier 3 cobre cauda longa.
+- **SEO (`docs/09`, `growth/seo-clusters.md`):** páginas-pilar de todas as áreas, mas
+  esforço de link/atualização concentrado nos Tiers 1–2.
+- **Tráfego (`docs/10`):** Google Search começa por Tier 2 (intenção-problema, aquisição) e
+  Tier 1 (planejamento, maior valor); Tier 3 entra por conteúdo/orgânico.
+- **Métrica de validação (`docs/14`):** acompanhar **contato e receita por área** para
+  confirmar ou corrigir a aposta (H11 em `docs/17`).
+
+> ⚠️ Priorizar **não** é deixar de atender; é onde colocamos o foco de aquisição/receita. Como
+> a cliente atende tudo, qualquer contato de área Tier 3 é bem-vindo e convertível.
+
 ---
 
 ## 1. Acidente de trabalho (✅ prioritária)
@@ -105,5 +136,6 @@ frequentes, ganchos de conteúdo e conexão com SEO/site.
 ## 10. Pendências
 
 - ⏳ Revisão técnica (pela cliente) de toda afirmação jurídica antes de publicar.
-- ⏳ Priorizar as áreas por demanda real/retorno (depende de dados da cliente — `docs/01`).
+- 🎯→🔬 Priorização por retorno **definida pela equipe** (seção 0 / D16); validar com
+  desempenho real (H11 em `docs/17`).
 - ⏳ Decidir status da vertical autismo.

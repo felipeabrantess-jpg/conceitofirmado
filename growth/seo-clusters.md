@@ -64,18 +64,25 @@ Intenção: (I) informacional · (P) problema · (C) comparativa · (L) local ·
 - Satélites: "documentos aposentadoria rural" (P), "segurado especial" (I),
   "idade aposentadoria rural" (I), "como provar trabalho rural" (P)
 
-## Cluster transversal — Marca / Local / Confiança
-- "Elisangela Fonseca advogada" (N), "advogado previdenciário [cidade/UF]" (L),
-  "melhor advogado previdenciário [cidade]" (L) ⚠️ cuidado com "melhor" em anúncio (`docs/13`).
+## Cluster transversal — Marca / Local / Confiança (Niterói/RJ — F10/D14)
+- "Elisangela Fonseca advogada" (N)
+- "advogado previdenciário Niterói" (L), "advogada previdenciária Niterói" (L),
+  "advogado INSS Niterói" (L), "advogado aposentadoria Niterói" (L),
+  "advogado previdenciário RJ / Rio de Janeiro" (L)
+- ⚠️ Evitar "melhor advogado..." em anúncio (`docs/13`).
+- Online/nacional: as páginas-pilar de benefício atendem o Brasil todo (atendimento online).
 
 ---
 
-## Priorização inicial (🎯)
-1. Intenção-problema de alto volume (Cluster 2 e 5).
-2. Navegacional/local (marca + praça) quando SEO local estiver configurado.
-3. Expandir por desempenho (GSC) e dúvidas reais.
+## Priorização (🎯 — alinhada a D16 em `docs/17`)
+1. **Tier 2 (aquisição):** intenção-problema de alto volume — Cluster 2 (Incapacidade) e 5
+   (BPC/LOAS).
+2. **Tier 1 (receita):** Cluster 1 (Aposentadorias/Planejamento) — maior ticket.
+3. **Local:** termos de Niterói/RJ + GBP (captação da região metropolitana do Rio).
+4. **Tier 3 (cauda longa):** Clusters 3, 4, 6, 7 por conteúdo/orgânico.
+5. Expandir por desempenho (GSC) e dúvidas reais.
 
 ## Pendências
 - ⏳ Validar volume/dificuldade com ferramenta.
-- ⏳ Definir praça para termos locais.
-- ⏳ Mapear termos dos concorrentes (`research/concorrentes.md`).
+- ✅ Praça definida (Niterói/RJ + online) — termos locais acima.
+- ⏳ Mapear termos dos concorrentes de Niterói (`research/concorrentes.md`).

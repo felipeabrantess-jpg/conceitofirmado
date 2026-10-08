@@ -27,7 +27,7 @@ de captação; é prova de domínio + relacionamento.
   > Advogada previdenciária 💼
   > Direitos do INSS explicados sem juridiquês
   > Aposentadoria · BPC/LOAS · Incapacidade · Maternidade
-  > 📍 [cidade/UF] · Atendimento humano
+  > 📍 Niterói/RJ · Atendimento presencial e online
   > 👇 Tire sua dúvida
 - **Link principal:** página de links/site (ver `docs/08`). ⏳ definir ferramenta e destino.
 - ⚠️ A bio não pode prometer resultado nem captar de forma agressiva (`docs/13`).

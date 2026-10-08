@@ -11,11 +11,15 @@
 
 ## Fase 0 — Pré-requisitos (antes do dia 1)
 
-Bloqueantes que destravam o resto:
-- ⏳ Responder as perguntas de `docs/01` (dados da cliente, recursos, orçamento).
-- ⏳ **Validar compliance** OAB com a seccional (`docs/13`).
-- ⏳ Definir handle do Instagram e domínio.
-- ⏳ Ensaio fotográfico profissional (identidade visual).
+Modelo full-service (D13): a equipe define e executa; a cliente entra só no jurídico. **Sem
+questionário.** Bloqueantes:
+- ⏳ Coletar da cliente o **mínimo de identidade**: OAB (nº/seccional) e formação/títulos
+  (para "Sobre" e identificação). Conversa curta, não questionário.
+- ⏳ **Validação jurídica/compliance** pela própria Elisangela (`docs/13`).
+- 🎯 **Equipe decide e registra** (não depende da cliente): handle do Instagram, domínio,
+  CMS, paleta/tipografia/logo finais, ferramentas, orçamento, cadência.
+- ⏳ **Ensaio fotográfico profissional em Niterói** (ação e custo da equipe).
+- 🎯 Priorização de receita D16 já definida (`docs/05`): foco inicial em Tier 1 e 2.
 
 ---
 
@@ -48,10 +52,11 @@ Infra
 
 Site & SEO
 - Publicar site com Home, Sobre, hub "Direito Previdenciário" e 3–4 páginas-pilar
-  prioritárias (`docs/08`, `site/`).
+  prioritárias (Tier 1 e 2: Aposentadorias/Planejamento, Incapacidade, BPC/LOAS — `docs/05`).
 - Definir clusters e começar artigos satélites (`growth/seo-clusters.md`,
   `content/artigos-seo.md`).
 - Instalar GA4/GSC, sitemap, dados estruturados; indexar.
+- **Criar e otimizar o Google Business Profile em Niterói** + página local (F10/D14).
 
 Atendimento
 - Implantar triagem no WhatsApp + formulário com consentimento LGPD (`docs/11`,

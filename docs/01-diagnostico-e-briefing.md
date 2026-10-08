@@ -3,115 +3,84 @@
 > Dono: Research & Inteligência (`data-squad` + `brand-squad`) + orquestrador.
 > Última atualização: 08/10/2026.
 
-Este documento consolida **tudo que o briefing oficial informou** e separa, com clareza, o
-que é fato, decisão, hipótese e pendência. É a base factual do projeto.
+Consolida o que é fato, o que a equipe decide e o mínimo que ainda precisa ser coletado.
+**Modelo full-service:** a cliente começa do zero e cuida só do jurídico; a equipe define e
+executa o resto. **Não há questionário.**
 
 ---
 
-## 1. Dados da cliente
+## 1. Perfil da cliente (✅)
 
 | Item | Status | Valor |
 |------|--------|-------|
 | Nome / Marca | ✅ | Elisangela Fonseca |
 | Profissão | ✅ | Advogada |
 | Território principal | ✅ | Direito Previdenciário |
-| OAB (nº e seccional) | ⏳ | Não informado |
-| Cidade / UF de atuação | ⏳ | Não informado |
-| Estrutura (sozinha / equipe) | ⏳ | Não informado |
-| Tempo de atuação / experiência | ⏳ | Não informado |
-| Formação, títulos, especializações | ⏳ | Não informado |
-| Redes sociais atuais + métricas | ⏳ | Não informado |
-| Site atual | ⏳ | Não informado |
-| Ferramentas já contratadas | ⏳ | Não informado |
-| Orçamento de mídia/ferramentas | ⏳ | Não informado |
-| Capacidade de atendimento/mês | ⏳ | Não informado |
+| Ponto de partida | ✅ | **Do zero** — sem site, redes, fotos, logo, ferramentas, tráfego, nem conhecimento técnico |
+| Praça | ✅ | **Niterói/RJ presencial + atendimento online** (híbrido) |
+| Cobertura de áreas | ✅ | **Todas as 7** áreas previdenciárias |
+| Papel da cliente | ✅ | **Apenas jurídico**; tecnologia/marketing é da equipe |
+| OAB (nº/seccional) | ⏳ | Coletar (identificação) |
+| Formação/títulos | ⏳ | Coletar (página "Sobre") |
+| Fotos profissionais | ⏳ | **Ação da equipe:** ensaio em Niterói |
 
-> ⚠️ Nenhum desses campos pode ser preenchido por suposição. Onde faltar, vale ⏳ até a
-> cliente responder.
+> ⚠️ Não inventar dados da cliente. O que falta é só o mínimo de identidade (OAB, formação),
+> que não dá para supor. O resto é decisão da equipe.
 
 ---
 
-## 2. Objetivo (✅ conforme briefing)
-
+## 2. Objetivo (✅)
 Marca jurídica profissional, sofisticada e encontrável, com ecossistema digital completo.
-Meta final: ser encontrada, compreendida, reconhecida e lembrada em Direito Previdenciário.
+Meta: ser encontrada, compreendida, reconhecida e lembrada em Direito Previdenciário.
 
-## 3. Território e áreas prioritárias (✅)
-
-Acidente de trabalho; auxílio por incapacidade temporária; salário-maternidade; BPC/LOAS;
-aposentadorias; aposentadoria especial; aposentadoria rural. (Detalhe em `docs/05`.)
+## 3. Território e áreas (✅)
+Todas as 7 áreas: acidente de trabalho; incapacidade temporária; salário-maternidade;
+BPC/LOAS; aposentadorias; especial; rural. Priorização de receita definida pela equipe
+(`docs/05` + D16 em `docs/17`).
 
 ## 4. Vertical autismo (🔬)
-
-Interesse/afinidade declarada. Tratar como hipótese estratégica dentro do previdenciário
-(BPC/LOAS, deficiência, famílias atípicas). **Não** posicionar como "advogada de autismo".
+Hipótese dentro do previdenciário (BPC/LOAS por deficiência, famílias atípicas). Não é a marca.
 
 ## 5. Identidade visual (✅)
+Bordô + vinho, rosé fechado, marfim, dourado como acento. Sensação de autoridade, elegância,
+acolhimento, feminilidade, sofisticação, confiança e clareza. Evitar clichê. (`docs/03`.)
 
-Bordô aprovado. Paleta: bordô profundo, vinho, rosé fechado, marfim, dourado como acento.
-Sensação: autoridade, elegância, acolhimento, feminilidade, sofisticação, confiança, clareza.
-Evitar clichê jurídico. (Detalhe em `docs/03`.)
-
-## 6. Benchmarks declarados pela cliente (✅)
-
-- @profjulianaribeiro
-- @epreviensino
-- @julianaluft
-
-Uso: entender gosto e percepção de valor da cliente. **Não copiar.** (Análise em
-`research/referencias-cliente.md` e leitura em `docs/16`.)
+## 6. Benchmarks declarados (✅)
+@profjulianaribeiro, @epreviensino, @julianaluft. Entender gosto/percepção de valor; não
+copiar. (`research/referencias-cliente.md`, `docs/16`.)
 
 ---
 
-## 7. Diagnóstico estratégico preliminar
+## 7. Diagnóstico estratégico
 
-Com base no briefing (e **sem** dados de mercado específicos da praça da cliente, ainda
-pendentes):
+**Contexto:** marca nova, sem ativos nem histórico. Vantagem: começamos sem passivos de marca
+e podemos aplicar a identidade bordô e a arquitetura de autoridade de forma coerente desde o
+dia 1. Desafio: não há baseline nem dados históricos, então metas e priorização são **apostas
+informadas** validadas pelo desempenho real.
 
-- **Oportunidade:** o previdenciário tem demanda de busca alta e constante (benefícios
-  negados, perícia, documentação) e público que valoriza quem explica com clareza.
-- **Diferenciação possível:** estética sofisticada (bordô) + didática acolhedora + ângulo de
-  "direitos que você não sabe que tem" quebram o padrão genérico do nicho.
-- **Barreira:** compliance OAB limita linguagem publicitária; exige abordagem informativa.
-- **Dependência:** autoridade é construída no médio prazo; exige constância operacional.
+**Praça Niterói/RJ + online:** permite dupla jogada — **SEO local** ("advogado previdenciário
+Niterói") e **GBP** para captar a região metropolitana do Rio, somados a **conteúdo de
+alcance nacional** para o atendimento online. (`docs/09`.)
 
-🔬 **HIPÓTESE:** o público-alvo primário concentra-se em segurados e famílias de baixa a
-média renda que já tiveram contato (negativa/dúvida) com o INSS. A validar com dados reais da
-praça e do histórico da cliente.
+**Cobertura total das áreas:** como a cliente domina todas, não limitamos o escopo jurídico.
+A inteligência está em **priorizar por retorno** (D16) para focar aquisição e receita,
+mantendo as demais áreas vivas em SEO/conteúdo de cauda longa.
+
+🔬 **Hipótese de receita (a validar):** Aposentadorias + Planejamento tendem a dar maior
+ticket e melhor relação de honorários; Incapacidade e BPC/LOAS tendem a trazer volume e dor
+aguda (ótimos para aquisição). Detalhe e lógica em `docs/05`.
 
 ---
 
-## 8. Perguntas abertas à cliente (lista de validação)
+## 8. O que a equipe define (antes feito por questionário)
 
-Organizadas por bloco. Respostas alimentam os MDs e removem pendências de `docs/17`.
+Tudo abaixo é **decisão da equipe**, registrada nos MDs donos e em `docs/17`:
+posicionamento, arquétipo, personas, priorização de áreas, handle, domínio, identidade final,
+cadência, canais, mídia, ferramentas, jornada e operação.
 
-### Sobre a advogada e o escritório
-1. Número e seccional da OAB; cidade/UF principal de atuação e se atende outras regiões/online.
-2. Atua sozinha ou com equipe? Quem pode responder no WhatsApp além dela?
-3. Tempo de atuação, formação, pós/especializações e títulos que podem ser comunicados.
-4. Há casos/resultados que podem ser citados (com autorização e dentro da ética)? 
-5. Capacidade de atendimento por mês (quantos novos casos consegue absorver)?
+## 9. O que ainda precisa vir da cliente (mínimo)
+- OAB (nº/seccional) e formação/títulos — para identificação e página "Sobre".
+- Validação **jurídica** do conteúdo (ela é a advogada) e do compliance (`docs/13`).
+- Disponibilidade para o ensaio fotográfico em Niterói.
 
-### Sobre posicionamento e preferências
-6. Entre as áreas prioritárias, qual gera mais demanda hoje? Qual dá mais prazer/retorno?
-7. Há área que **não** quer atender ou deseja evitar comunicar?
-8. Sobre autismo: deseja testar como vertical agora, depois, ou manter apenas latente?
-9. O que, nos perfis de referência, mais te agrada (linguagem, estética, formato)?
-
-### Sobre recursos e ferramentas
-10. Já possui: site, domínio, logo, Google Business Profile, CNPJ, conta de anúncios, CRM,
-    ferramenta de disparo/WhatsApp Business/API?
-11. Orçamento mensal previsto para mídia paga e para ferramentas?
-12. Quem produz/edita conteúdo hoje (ela, equipe, terceiro)? Há banco de fotos profissionais?
-
-### Sobre operação
-13. Horário e canal preferencial de atendimento; tempo de resposta desejado.
-14. Existe fluxo atual de entrada de clientes (indicação, redes, Google)?
-15. Há materiais existentes (artigos, e-books, modelos) que podem ser reaproveitados?
-
-### Sobre marca
-16. Como gostaria de ser percebida em uma frase? E o que **não** quer transmitir?
-17. Já tem nome de usuário/handle preferido no Instagram? Há disponibilidade?
-
-> Esta lista é a fonte das ⏳ pendências. Cada resposta deve ser registrada no MD dono e em
-> `docs/17`.
+> Isso se resolve em uma conversa curta e objetiva, não num questionário estratégico.

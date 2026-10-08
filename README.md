@@ -30,7 +30,7 @@ SEO, tráfego, jornada de atendimento, compliance, métricas e operação.
 ├── README.md                      # Este arquivo
 ├── docs/                          # Estratégia e decisões (núcleo)
 │   ├── 00-visao-geral-do-projeto.md
-│   ├── 01-diagnostico-e-briefing.md
+│   ├── 01-diagnostico-e-briefing.md   # Fatos + o que a equipe define (full-service)
 │   ├── 02-posicionamento-de-marca.md
 │   ├── 03-identidade-visual.md
 │   ├── 04-publicos-e-personas.md

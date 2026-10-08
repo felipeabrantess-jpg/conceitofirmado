@@ -5,8 +5,13 @@
 > Última atualização: 08/10/2026.
 
 > ⚠️ As personas abaixo são 🔬 **HIPÓTESES** construídas a partir do briefing e do
-> comportamento típico do público previdenciário. **Não** são dados reais da base da cliente.
-> Devem ser validadas com o histórico de atendimento da Elisangela (`docs/01`, pendências).
+> comportamento típico do público previdenciário. Como a cliente **começa do zero**, não há
+> base histórica: a validação virá do **desempenho real** após o lançamento (contatos por
+> tema/persona — `docs/14`), não de dados prévios.
+>
+> **Praça (F10):** o público é **duplo** — presencial na região de **Niterói/RJ** (e região
+> metropolitana do Rio) e **nacional via atendimento online**. As personas valem para os dois;
+> a captação local (SEO/GBP de Niterói) e a nacional (conteúdo) convivem.
 
 ---
 
@@ -105,6 +110,8 @@ cuidado(a) e respeitado(a).
 
 ## 5. Pendências
 
-- ⏳ Validar personas com dados reais da cliente (quais mais aparecem, ticket, região).
-- ⏳ Confirmar peso relativo de cada persona para priorizar conteúdo e mídia.
+- 🔬 Validar personas pelo **desempenho real** (sem histórico; conta nova) — contatos por
+  tema/persona (`docs/14`).
+- 🎯 Peso inicial segue a priorização de receita D16 (`docs/05`): foco em B (aposentadoria/
+  planejamento), A e D (incapacidade, BPC) para aquisição.
 - ⏳ Definir se Persona D (autismo) entra agora ou fica latente (decisão 🔬 autismo).

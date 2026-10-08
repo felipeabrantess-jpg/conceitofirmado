@@ -74,12 +74,19 @@ contratação. Respeitar frequência para não saturar. ⚠️ LGPD + ética (`d
 
 ---
 
-## 6. Orçamento e priorização (🔬)
+## 6. Orçamento e priorização (🎯 alinhado a D16)
 
-- Fase 1: **Google Search** (intenção) + impulsionamento pontual de conteúdo no Meta.
-- Fase 2: Meta para alcance/educação + retargeting estruturado.
-- Fase 3: escalar o que converteu com qualidade; considerar YouTube.
-- ⏳ Definir orçamento mensal (impacto de custo direto) — ver `docs/01`.
+Priorização de verba por tier de receita (`docs/05` §0):
+- **Tier 2 (aquisição):** Google Search em Incapacidade e BPC/LOAS (intenção-problema) — topo
+  do funil, geram contato.
+- **Tier 1 (receita):** Google Search em Aposentadorias/Planejamento — maior ticket.
+- **Local:** campanhas e GBP focados em **Niterói/RJ** (F10) para captar a região; conteúdo
+  nacional para o atendimento online.
+- **Tier 3:** entra por orgânico/conteúdo; mídia só se o desempenho justificar.
+
+Fases: (1) Google Search Tier 2+1 + impulsionamento pontual no Meta; (2) Meta para alcance/
+educação + retargeting; (3) escalar o que converteu; considerar YouTube.
+- ⏳ Definir orçamento mensal (equipe) — impacto de custo direto.
 
 ---
 

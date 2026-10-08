@@ -63,9 +63,11 @@ Independentemente da auditoria, a marca Elisangela se diferencia por:
 
 ## 5. Concorrência (resumo; detalhe em `research/concorrentes.md`)
 
-- ⏳ Mapa de concorrentes **na praça da cliente** pendente (depende de cidade/UF — `docs/01`).
+- Praça: **Niterói/RJ + online** (F10). Mapear concorrência **local** (Niterói/região do Rio)
+  e **digital nacional**.
 - Hipótese: concorrência alta em termos genéricos ("advogado previdenciário"), oportunidade
-  em **cauda longa de dúvidas** e **SEO local**.
+  em **cauda longa de dúvidas** e **SEO local em Niterói** (muitos concorrentes negligenciam
+  GBP e páginas locais).
 
 ---
 

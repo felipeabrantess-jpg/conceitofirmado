@@ -34,15 +34,21 @@ conversa: ela vive aqui e nos documentos de `docs/`, `brand/`, `content/`, `grow
 - ✅ **Nome / Marca:** Elisangela Fonseca.
 - ✅ **Profissão:** Advogada.
 - ✅ **Território principal de posicionamento:** Direito Previdenciário.
-- ⏳ **Dados ainda não informados:** número de inscrição na OAB e seccional, cidade/UF de
-  atuação, estrutura do escritório (sozinha ou com equipe), tempo de atuação, histórico de
-  casos, formação e títulos, redes sociais atuais e métricas, ferramentas já contratadas.
-  Ver `docs/17-decisoes-e-pendencias.md` e a lista de perguntas em
-  `docs/01-diagnostico-e-briefing.md`.
+- ✅ **Começa do zero:** não possui site, redes sociais, fotos, logo, ferramentas, tráfego nem
+  conhecimento técnico. A equipe estrutura **tudo**. (F9)
+- ✅ **Praça:** atendimento **presencial em Niterói/RJ + online** (modelo híbrido). (F10)
+- ✅ **Cobertura:** atua em **todas as 7 áreas** previdenciárias (domina todas). (F11)
+- ✅ **Papel da cliente:** cuida **apenas da parte jurídica**; decisões de tecnologia e
+  marketing são da equipe. (F12)
+- ⏳ **Dados mínimos de identidade a coletar** (não inventáveis): número/seccional da OAB e
+  formação/títulos para a página "Sobre". Fotos: ação da equipe (ensaio em Niterói). Ver
+  `docs/17` §4.1.
 
-> ⚠️ **Não inventar nada sobre a cliente.** Onde faltar dado, registrar como ⏳ PENDÊNCIA e
-> perguntar. Depoimentos, números de casos, resultados e títulos só entram em material
-> público após confirmação documental.
+> ⚠️ **Modelo full-service (D13):** a equipe define e executa toda a estratégia; a cliente
+> valida apenas o jurídico. **Não há questionário à cliente.** As premissas são decididas por
+> nós e validadas pelos resultados reais.
+> ⚠️ **Não inventar nada sobre a cliente.** Depoimentos, números de casos, resultados e
+> títulos só entram em material público após confirmação documental.
 
 ---
 
@@ -141,7 +147,7 @@ site que é prova de competência e a um WhatsApp que faz triagem humana e étic
 | Arquivo | Para quê |
 |---------|----------|
 | `00-visao-geral-do-projeto.md` | Panorama e sumário executivo. |
-| `01-diagnostico-e-briefing.md` | Briefing consolidado + perguntas abertas à cliente. |
+| `01-diagnostico-e-briefing.md` | Fatos confirmados + o que a equipe define (full-service). |
 | `02-posicionamento-de-marca.md` | Posicionamento, território, arquitetura de marca. |
 | `03-identidade-visual.md` | Direção visual, paleta, tipografia, fotografia. |
 | `04-publicos-e-personas.md` | Personas e segmentos por benefício. |

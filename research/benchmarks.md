@@ -39,7 +39,7 @@ As fichas preenchidas ficam em `research/referencias-cliente.md`:
 - @julianaluft
 
 ## 4. Perfis adicionais a observar (🔬 — a definir)
-- Outros previdenciaristas de referência na praça da cliente (⏳ depende de cidade/UF).
+- Outros previdenciaristas de referência em **Niterói/RJ** (local) e perfis digitais nacionais.
 - Perfis de nicho jurídico com estética sofisticada (inspiração visual, não de conteúdo).
 
 ## 5. Método de coleta (quando executar)
