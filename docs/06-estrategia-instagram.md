@@ -26,13 +26,14 @@ de captação; é prova de domínio + relacionamento.
   1:1, fundo bordô uniforme) — usar como avatar no Instagram e no GBP (ver `docs/03`).
 - **Bio (🎯 final — dentro de 150 caracteres, compliance OK):**
   > Advogada previdenciária · OAB/RJ 154.954
-  > 17 anos ajudando você com o INSS, sem juridiquês
+  > Direitos do INSS explicados sem juridiquês
   > Aposentadoria · BPC/LOAS · Incapacidade · Maternidade
   > Niterói/RJ · presencial e online
   > 👇 Tire sua dúvida
 - **Link principal:** página de links/site (ver `docs/08`). ⏳ definir ferramenta e destino.
-- ⚠️ A bio é informativa: cita experiência (17 anos) como autoridade, **sem** prometer
-  resultado nem captar de forma agressiva (`docs/13`). "17 anos" é fato (F14), não promessa.
+- ⚠️ A bio é informativa, **sem** prometer resultado nem captar de forma agressiva
+  (`docs/13`). ⚠️ **Não** citar "17 anos" na bio ligado ao previdenciário (F14 — seriam 17
+  anos de advocacia, não de INSS).
 
 ---
 
@@ -44,7 +45,8 @@ Ordem e nomes casando com os territórios de marca:
 
 - Capas na paleta bordô/marfim com ícone dourado (consistência visual).
 - "Comece aqui": explica quem é, o que resolve e como tirar dúvida (sem captação agressiva).
-- "Sobre": trajetória/credibilidade — já dá para usar 17 anos de experiência (F14) e OAB/RJ
+- "Sobre": trajetória/credibilidade — pode citar "17 anos de advocacia" (F14, nunca como
+  tempo de previdenciário) e OAB/RJ
   154.954; complementar com formação (`docs/01`).
 - "Perguntas": FAQ visual por tema.
 

@@ -32,31 +32,49 @@
 
 ---
 
-# POST 1 — Comece aqui (carrossel · 6 cards) · Pilar 10
+# POST 1 — Apresentação (carrossel · 7 cards) · Pilar 10
+> Texto reescrito (mais profundo) e corrigido: **sem** "17 anos no INSS" (F14). Cada card tem
+> dois prompts: **FUNDO (Canva)** = só o fundo, texto vai no Canva; **GPT (comparativo)** =
+> card completo com o texto já na imagem, para você comparar o visual com o do Canva.
+> Estilo GPT (vale para todos): "estética editorial sofisticada, feminina, minimalista; título
+> em serifada elegante estilo Playfair Display, apoio em sem serifa estilo Mulish; paleta bordô
+> #5B1A2B, marfim #F5EFE6, vinho #3E121E, dourado #C9A24B só em filete; 4:5; acentos corretos
+> em português; sem balança/martelo/coluna; sem pessoas (salvo card 1)."
 
-**Card 1 (capa, com foto)**
-- PROMPT: `Imagem de fundo 4:5 para post de Instagram de advogada, SEM nenhum texto, letra ou número. Fundo bordô profundo #5B1A2B liso, leve vinheta, um filete dourado fino #C9A24B na base. Metade direita deixada lisa e limpa para inserir depois uma foto de uma pessoa; metade esquerda com espaço vazio para título. Estética editorial sofisticada, feminina, minimalista; sem pessoas, sem símbolos jurídicos.`
-- DIZER: título "Prazer, eu sou a Elisangela." · apoio "Advogada previdenciária há 17 anos".
+**Card 1 — capa (com foto)**
+- DIZER: título "Você não precisa enfrentar o INSS sozinho." · menor "Elisangela Fonseca · Advogada previdenciária · OAB/RJ 154.954"
+- FUNDO (Canva): `Imagem de fundo 4:5, SEM texto. Fundo bordô profundo #5B1A2B liso, leve vinheta, filete dourado fino #C9A24B na base; metade direita limpa para inserir a foto da advogada; metade esquerda limpa para o título. Sem letras, sem símbolos jurídicos.`
+- GPT (comparativo, sem foto real): `Card 4:5 para Instagram, fundo bordô profundo #5B1A2B. À esquerda, em serifada elegante marfim: "Você não precisa enfrentar o INSS sozinho." Abaixo, menor, em sem serifa: "Elisangela Fonseca · Advogada previdenciária · OAB/RJ 154.954". Filete dourado fino. Metade direita vazia (reservada para foto). Editorial, sofisticado, acentos corretos. Não use rosto humano gerado.`
 
-**Card 2 (texto)**
-- PROMPT: `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6 com filete dourado fino #C9A24B no topo e amplo espaço central limpo; discreto detalhe vinho #3E121E na margem. Elegante, minimalista, premium; sem letras, sem pessoas, sem símbolos jurídicos.`
-- DIZER: "Há 17 anos ajudo pessoas a entender e acessar seus direitos no INSS."
+**Card 2**
+- DIZER: "Todo dia alguém perde um direito por não saber que tinha — ou desiste depois do primeiro 'indeferido'."
+- FUNDO (Canva): `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6, filete dourado fino #C9A24B no topo, amplo espaço central limpo, discreto detalhe vinho na margem. Minimalista, sem pessoas.`
+- GPT (comparativo): `Card 4:5, fundo marfim #F5EFE6, filete dourado fino no topo. Texto central em sem serifa, cor vinho #3E121E: "Todo dia alguém perde um direito por não saber que tinha — ou desiste depois do primeiro 'indeferido'." Editorial, muito respiro, acentos corretos. Sem pessoas.`
 
-**Card 3 (texto)**
-- PROMPT: `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6, espaço central limpo, e um traço dourado fino #C9A24B minimalista sugerindo uma rota/mapa no canto inferior. Elegante, sem letras, sem pessoas.`
-- DIZER: "Atendo em Niterói e online, para todo o Brasil."
+**Card 3**
+- DIZER: "Para mim, direito previdenciário é proteção, não favor. E entender o que acontece com o seu caso faz parte do cuidado."
+- FUNDO (Canva): `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6, espaço central limpo, detalhe dourado fino. Minimalista, sem pessoas.`
+- GPT (comparativo): `Card 4:5, fundo marfim #F5EFE6. Texto central em vinho #3E121E, parte em serifada elegante: "Direito previdenciário é proteção, não favor." Abaixo, menor em sem serifa: "E entender o que acontece com o seu caso faz parte do cuidado." Filete dourado fino. Acentos corretos. Sem pessoas.`
 
-**Card 4 (texto)**
-- PROMPT: `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6 com amplo espaço limpo para uma lista; filete dourado fino #C9A24B à esquerda. Minimalista, premium, sem letras.`
-- DIZER: "Aposentadorias · BPC/LOAS · Incapacidade · Salário-maternidade · Acidente de trabalho · Rural · Especial".
+**Card 4**
+- DIZER: "Posso te ajudar a planejar a aposentadoria certa, entender uma negativa do INSS, acessar o BPC/LOAS e organizar seus documentos antes de pedir."
+- FUNDO (Canva): `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6, filete dourado fino à esquerda, amplo espaço para lista. Minimalista, sem pessoas.`
+- GPT (comparativo): `Card 4:5, fundo marfim #F5EFE6. Título curto em serifada vinho: "Como posso te ajudar". Abaixo, lista em sem serifa vinho com marcadores dourados: "Planejar a aposentadoria certa", "Entender uma negativa do INSS", "Acessar o BPC/LOAS", "Organizar seus documentos antes de pedir". Acentos corretos. Sem pessoas.`
 
-**Card 5 (texto)**
-- PROMPT: `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6, centro limpo, leve textura de papel, detalhe dourado fino. Elegante, sem letras, sem pessoas.`
-- DIZER: "Meu compromisso: explicar sem juridiquês e cuidar de cada caso."
+**Card 5**
+- DIZER: "Atendimento próximo, do primeiro contato ao fim. Explico cada passo sem juridiquês — e nunca prometo o que não posso garantir."
+- FUNDO (Canva): `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6, centro limpo, leve textura de papel, detalhe dourado fino. Sem pessoas.`
+- GPT (comparativo): `Card 4:5, fundo marfim #F5EFE6. Texto central em vinho #3E121E: "Atendimento próximo, do primeiro contato ao fim. Explico cada passo sem juridiquês — e nunca prometo o que não posso garantir." Filete dourado fino. Editorial, acentos corretos. Sem pessoas.`
 
-**Card 6 (CTA)**
-- PROMPT: `Imagem de fundo 4:5, SEM texto. Fundo vinho profundo #3E121E com leve brilho dourado #C9A24B nos cantos e centro limpo. Sofisticado, sem letras, sem pessoas.`
-- DIZER: "Me segue para entender seus direitos." · menor "Dúvida? Chame no direct."
+**Card 6**
+- DIZER: "Atendo em Niterói e, online, para todo o Brasil."
+- FUNDO (Canva): `Imagem de fundo 4:5, SEM texto. Fundo marfim #F5EFE6, um traço dourado fino minimalista sugerindo rota/mapa no canto inferior, espaço central limpo. Sem pessoas.`
+- GPT (comparativo): `Card 4:5, fundo marfim #F5EFE6. Texto central em serifada vinho #3E121E: "Atendo em Niterói e, online, para todo o Brasil." Um traço dourado fino minimalista sugerindo rota. Acentos corretos. Sem pessoas.`
+
+**Card 7 — CTA**
+- DIZER: "Ficou com uma dúvida sobre o INSS? Me acompanhe por aqui e, quando precisar, fale comigo."
+- FUNDO (Canva): `Imagem de fundo 4:5, SEM texto. Fundo vinho profundo #3E121E, leve brilho dourado nos cantos, centro limpo. Sem pessoas.`
+- GPT (comparativo): `Card 4:5, fundo vinho profundo #3E121E. Texto central em marfim: "Ficou com uma dúvida sobre o INSS? Me acompanhe por aqui e, quando precisar, fale comigo." Filete dourado fino. Sofisticado, acentos corretos. Sem pessoas.`
 
 ---
 

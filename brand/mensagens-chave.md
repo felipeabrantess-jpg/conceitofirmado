@@ -42,13 +42,14 @@
 
 ## 5. Mensagens de prova (reason to believe)
 
-- ✅ **Experiência:** 17 anos em Direito Previdenciário (F14). Ângulo: "17 anos ajudando
-  pessoas a acessar e proteger seus direitos no INSS."
+- ✅ **Experiência:** 17 anos de advocacia (F14). ⚠️ **Não** dizer "17 anos de previdenciário"
+  nem "há 17 anos no INSS" — é falso. Se citar, só "17 anos de advocacia". Não evidenciar
+  atuação em outros ramos.
 - ✅ **Identificação:** OAB/RJ 154.954.
 - ⏳ Formação/títulos: coletar.
 - ⏳ Casos/atuações autorizados a comunicar: coletar (com autorização e ética).
 
-> Preencher só com dados confirmados (`docs/01`). Não inventar. "17 anos" é ângulo de
+> Preencher só com dados confirmados (`docs/01`). Não inventar. Experiência é ângulo de
 > autoridade, nunca promessa de resultado (`docs/13`).
 
 ## 6. Objeções comuns e respostas (Chris Voss / Blair Warren)

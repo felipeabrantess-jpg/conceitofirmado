@@ -32,7 +32,7 @@ Legenda: ✅ FATO CONFIRMADO · 🎯 DECISÃO ESTRATÉGICA · 🔬 HIPÓTESE A V
 | **F11** | **Atua em todas as 7 áreas previdenciárias** (tem domínio de todas) | Cliente 08/10 | docs/05 |
 | **F12** | Elisangela cuida **apenas da parte jurídica**; decisões de tecnologia/marketing são da equipe | Cliente 08/10 | operations/ |
 | **F13** | **OAB/RJ 154.954** (inscrição — identificação oficial) | Cliente 08/10 | docs/13, docs/08, brand/handle-e-dominio |
-| **F14** | **17 anos de experiência** em Direito Previdenciário | Cliente 08/10 | docs/02, docs/06, site/ |
+| **F14** | **17 anos de advocacia** (tempo de profissão). ⚠️ **NÃO** são 17 anos de Direito Previdenciário. Proibido afirmar tempo de atuação no previdenciário ou "há 17 anos no INSS". Também não evidenciar que atuou em vários ramos. | Cliente 08/10 | docs/02, docs/06, site/ |
 
 ---
 
@@ -128,7 +128,8 @@ Só o essencial para identificação e página "Sobre", que a equipe não tem co
 | 08/10/2026 | **Mudança de modelo para full-service.** Novos fatos F9–F12 (zero, Niterói+online, todas as áreas, cliente só jurídica). Decisões D13–D16 (full-service, praça, cobertura total, priorização de receita). Questionário aposentado (`operations/questionario-cliente.md` removido; Claude Doc mantido como registro, a pedido do cliente). Pendências de dados da cliente reduzidas ao mínimo de identidade. | Xquads Chief |
 | 08/10/2026 | **Fundação da identidade:** D17–D19 (paleta com contraste verificado, tipografia Playfair+Mulish, conceito de logo). D20–D21 (handle e domínio propostos; `brand/handle-e-dominio.md`). Disponibilidade de domínio não checável no ambiente (rede bloqueia WHOIS/RDAP) — confirmar no registrador. | Xquads Chief |
 | 08/10/2026 | **OAB/RJ 154.954 recebida** (F13). Destrava registro do `.adv.br`. Pendência de identidade reduzida a formação/títulos + ensaio. | Xquads Chief |
-| 08/10/2026 | **Handle e domínio aprovados** pelo cliente (D20 `@elisangelafonseca.adv`, D21 `elisangelafonseca.adv.br`). **F14: 17 anos de experiência** — usar como prova de autoridade na bio e no "Sobre". | Xquads Chief |
+| 08/10/2026 | **Handle e domínio aprovados** pelo cliente (D20 `@elisangelafonseca.adv`, D21 `elisangelafonseca.adv.br`). | Xquads Chief |
+| 08/10/2026 | **Correção factual F14:** são 17 anos de **advocacia**, não de previdenciário. Removidas as frases falsas ("advogada previdenciária há 17 anos", "há 17 anos ajudo com o INSS") da bio, mensagens e Post 1. Post 1 será reescrito com mais profundidade. | Xquads Chief |
 | 08/10/2026 | **Lote 01 de conteúdo** produzido (`content/lote-01-feed.md`): 9 posts do feed com roteiro, legenda, hashtags, CTA e arte, no compliance. Aguarda revisão técnica jurídica (Elisangela) e produção das artes. | Xquads Chief |
 | 08/10/2026 | **Produção de artes do Lote 01** (`content/lote-01-producao.md`): dizeres (texto exato na arte) e prompts de imagem card a card, prontos para gerar no ChatGPT (modelo full-service: criamos tudo). Regras: foto da advogada é real, não IA; texto conferido/ajustado no Canva se necessário. | Xquads Chief |
 | 08/10/2026 | **Produção reescrita** em prompts completos (sem montagem) + fundos sem texto (ChatGPT) e dizeres aplicados no Canva. **1º retrato profissional real recebido e aprovado** (`brand/assets/elisangela-retrato-01.webp`) para avatar e card 1. | Xquads Chief |

@@ -20,26 +20,36 @@ Ordem de publicação sugerida casa com o conceito de feed do kit de Instagram. 
 
 ---
 
-## Post 1 — Comece aqui: quem é a Dra. Elisangela
-- **Formato:** carrossel (6 cards). **Pilar:** 10 (autoridade). **Objetivo:** apresentação +
-  confiança.
-- **Capa:** "Prazer, eu sou a Elisangela." / subtítulo "Advogada previdenciária há 17 anos."
-- **Roteiro (cards):**
-  1. Capa (acima).
-  2. "Há 17 anos eu ajudo pessoas a entender e acessar seus direitos no INSS." (F14)
-  3. "Atendo em Niterói e também online, para todo o Brasil."
-  4. "Trabalho com aposentadorias, BPC/LOAS, auxílio por incapacidade, salário-maternidade,
-     acidente de trabalho e aposentadoria rural e especial."
-  5. "Meu compromisso: explicar sem juridiquês e tratar cada caso com cuidado."
-  6. CTA: "Me segue para entender seus direitos. Dúvida? Chama no direct."
-- **Legenda:** "Seja bem-vindo(a) ao meu perfil. Sou a Elisangela Fonseca, advogada
-  previdenciária (OAB/RJ 154.954), e há 17 anos acompanho pessoas que precisam do INSS. Aqui
-  eu explico, sem juridiquês, como funcionam aposentadorias, BPC/LOAS, auxílios e outros
-  direitos. Me segue para não perder nada e, se tiver dúvida, me manda uma mensagem. 🤍"
+## Post 1 — Apresentação (reescrito, mais profundo) · Pilar 10
+> ⚠️ Correção F14: **não** afirmar tempo de atuação no previdenciário. Nada de "há 17 anos no
+> INSS". O número "17 anos de advocacia" fica, se for o caso, só na página "Sobre".
+- **Formato:** carrossel (7 cards). **Objetivo:** apresentação com substância (dor real +
+  posição + o que resolve + como atende), não um "oi, sou a fulana".
+- **Roteiro (cards / dizeres):**
+  1. **Capa:** "Você não precisa enfrentar o INSS sozinho." · menor: "Elisangela Fonseca ·
+     Advogada previdenciária · OAB/RJ 154.954"
+  2. "Todo dia alguém perde um direito por não saber que tinha — ou desiste depois do primeiro
+     'indeferido'."
+  3. "Para mim, direito previdenciário é proteção, não favor. E entender o que acontece com o
+     seu caso faz parte do cuidado."
+  4. "Posso te ajudar a planejar a aposentadoria certa, entender uma negativa do INSS, acessar
+     o BPC/LOAS e organizar seus documentos antes de pedir."
+  5. "Atendimento próximo, do primeiro contato ao fim. Explico cada passo sem juridiquês — e
+     nunca prometo o que não posso garantir."
+  6. "Atendo em Niterói e, online, para todo o Brasil."
+  7. **CTA:** "Ficou com uma dúvida sobre o INSS? Me acompanhe por aqui e, quando precisar,
+     fale comigo."
+- **Legenda:** "A burocracia do INSS não foi feita para ser simples — e é aí que muita gente
+  perde direito, por falta de informação ou por desistir cedo demais. Meu trabalho é mudar
+  isso: explicar com clareza, cuidar de cada caso e te ajudar a decidir com segurança. Atendo
+  em Niterói e, online, para todo o Brasil. Me acompanhe por aqui para entender seus direitos
+  e, quando precisar, fale comigo. 🤍 (Conteúdo informativo; cada caso é analisado
+  individualmente.)"
 - **Hashtags:** #direitoprevidenciario #advogadaprevidenciaria #inss #niteroi #aposentadoria
   #bpcloas
-- **CTA permitido:** seguir, direct. **Compliance:** OK (fatos: 17 anos, OAB; sem promessa).
-- ⏳ RT: confirmar áreas e dados pessoais.
+- **CTA permitido:** seguir, direct. **Compliance:** OK (sem promessa; sem tempo falso de
+  previdenciário).
+- ⏳ RT: confirmar o enquadramento das áreas no card 4.
 
 ## Post 2 — Por que o INSS nega o auxílio por incapacidade
 - **Formato:** carrossel (7 cards). **Pilar:** 2 (incapacidade). **Objetivo:** educar +

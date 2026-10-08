@@ -28,8 +28,9 @@ técnico com uma comunicação acolhedora, sofisticada e sem juridiquês.
 > Estrutura (para revisão com a cliente): Público-alvo → Nome → Categoria → Benefício
 > diferenciador → Razão para crer.
 
-✅ **Razão para crer (parcial):** 17 anos de experiência em Direito Previdenciário (F14) +
-OAB/RJ 154.954. 🔬 Complementar com formação/títulos e casos autorizados (`docs/01`).
+✅ **Razão para crer (parcial):** 17 anos de advocacia (F14 — **não** afirmar como tempo de
+previdenciário) + OAB/RJ 154.954. 🔬 Complementar com formação/títulos e casos autorizados
+(`docs/01`).
 
 ---
 
