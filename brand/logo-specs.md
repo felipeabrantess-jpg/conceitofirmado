@@ -77,3 +77,20 @@
 > Depois de gerar, para refinar: peça "fundo marfim perfeitamente liso", "linhas douradas mais
 > finas", "mais espaço em branco" ou "versão em uma cor (só bordô)". Variações úteis: fundo
 > bordô com monograma marfim; monograma dourado sobre bordô.
+
+## 10. Direções premium (método visual-generator do design-squad) — v2
+> Três direções DISTINTAS, não variações da mesma. Estrutura de prompt: assunto · estilo ·
+> referência · composição · cor · técnico · negativos. ⚠️ GPT erra texto; o nome final é
+> fixado em vetor. Gerar 1:1, alta resolução.
+
+**Direção 1 — Selo de maison (emblema couture)** · o mais seguro no GPT
+`Emblema de marca de luxo. Monograma "E" e "F" entrelaçados em serifada didone de altíssimo contraste, traços capilares. Referência: monogramas de maison de alta-costura e restrição Art Déco. Composição: circular, simétrico, centralizado, muito respiro, dentro de um anel fino com pequeno detalhe geométrico déco no topo. Cor: bordô profundo #5B1A2B, filetes em dourado #C9A24B tipo foil metálico, fundo marfim #F5EFE6. Técnico: vetorial, nítido, 1:1, alta resolução. Negativos: sem balança, martelo, coluna, sem gradiente berrante, sem texto além de E e F, sem sombra pesada.`
+
+**Direção 2 — Wordmark editorial (masthead de revista)** · fixar o nome em vetor
+`Wordmark de luxo para "ELISANGELA FONSECA". Estilo: didone de alto contraste (energia de masthead de revista de moda premium), espaçamento entre letras amplo e impecável, hairline dourada sob o nome. Referência: tipografia editorial de luxo, letterpress com relevo sutil. Composição: centralizado, altíssimo respiro, duas linhas (nome + "ADVOGADA PREVIDENCIÁRIA" menor e espaçado). Cor: bordô #5B1A2B sobre marfim #F5EFE6, filete dourado #C9A24B. Técnico: 1:1, alta resolução. Negativos: sem ícone, sem símbolo jurídico, sem gradiente. Escreva EXATAMENTE "ELISANGELA FONSECA".` (recomendado: compor o nome em fonte real; usar o GPT só para referência de clima.)
+
+**Direção 3 — Insígnia heráldica moderna (legado + confiança)**
+`Insígnia de marca sofisticada e atemporal. Escudo/brasão minimalista e moderno com o monograma "EF" ao centro em serifada didone, emoldurado por linhas douradas finas e um único florão botânico discreto (folha de louro estilizada) muito sutil. Referência: heráldica contemporânea de luxo, sobriedade. Composição: simétrica, vertical, centralizada, respiro generoso. Cor: bordô #5B1A2B e dourado #C9A24B sobre marfim #F5EFE6. Técnico: vetorial, 1:1, alta resolução. Negativos: sem balança, martelo, coluna, espada; sem aparência de carimbo pesado; sem texto além de "EF".`
+
+> Fluxo de qualidade (design-chief): gerar conceitos → revisar legibilidade em pequeno
+> (favicon 32px) e contraste → reconstruir o escolhido em vetor com o nome em curvas.
