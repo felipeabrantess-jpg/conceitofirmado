@@ -60,3 +60,20 @@
 - Fontes: Playfair Display e Mulish (Google Fonts, licença livre; disponíveis no Canva).
 - Ao exportar vetor final, **converter o texto em curvas** para não depender da fonte.
 - ⏳ Gerar os arquivos a partir desta especificação.
+
+## 9. Prompts premium para o GPT (gerar e depois refinar em vetor)
+> ⚠️ O gerador erra texto. Se o nome sair com letra trocada, gere só o **emblema/monograma** e
+> componha o nome em vetor/Canva com Playfair Display. O emblema é o que o GPT faz bem.
+
+**Opção A — Emblema/monograma (recomendado, mais confiável)**
+`Emblema de marca de luxo para uma advogada, estética de alta joalheria e alta-costura. Monograma circular elegante com as letras "E" e "F" entrelaçadas, desenhadas em serifada didone de alto contraste, traços finos e refinados, dentro de um aro circular delicado com um filete dourado tipo foil metálico sutil. Paleta: bordô profundo #5B1A2B e dourado #C9A24B sobre fundo marfim #F5EFE6. Minimalista, muito espaço em branco, atemporal, acabamento premium, vetorial e limpo, simétrico, centralizado, alta resolução. SEM balança, martelo, coluna ou símbolos jurídicos; sem gradientes berrantes; sem texto além das letras E e F.`
+
+**Opção B — Logotipo completo (nome + monograma)**
+`Logotipo de luxo para "ELISANGELA FONSECA", advogada previdenciária, identidade sofisticada e feminina, estética de maison de alto padrão. No topo, um monograma circular com as letras "E" e "F" entrelaçadas em serifada didone, aro dourado fino (foil sutil). Abaixo, o nome em serifada fina e elegante, com amplo espaçamento entre letras: "ELISANGELA FONSECA". Em uma linha menor: "ADVOGADA PREVIDENCIÁRIA". Paleta: bordô profundo #5B1A2B e marfim #F5EFE6, dourado #C9A24B só nos filetes. Fundo marfim liso. Minimalista, premium, atemporal, vetorial, centralizado, alta resolução. Escreva o texto EXATAMENTE "ELISANGELA FONSECA". SEM balança, martelo, coluna ou clichês jurídicos.`
+
+**Opção C — Selo/crista moderna (mais sofisticado)**
+`Selo de marca premium para uma advogada, estilo monograma de maison de luxo. Monograma "EF" em serifada didone de alto contraste, centralizado, emoldurado por um anel duplo fino dourado com um pequeno detalhe geométrico art déco minimalista no topo e na base. Bordô profundo #5B1A2B e dourado #C9A24B sobre marfim #F5EFE6. Elegante, discreto, atemporal, vetorial, simétrico, alta resolução. Sem símbolos jurídicos; sem texto além de "EF".`
+
+> Depois de gerar, para refinar: peça "fundo marfim perfeitamente liso", "linhas douradas mais
+> finas", "mais espaço em branco" ou "versão em uma cor (só bordô)". Variações úteis: fundo
+> bordô com monograma marfim; monograma dourado sobre bordô.
