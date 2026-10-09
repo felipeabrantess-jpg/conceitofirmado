@@ -1,0 +1,301 @@
+<title>Brand Book Elisangela Fonseca</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Mulish:wght@400;500;600;700&display=swap">
+<style>
+  @page { size: A4; margin: 0; }
+  :root{ --bordo:#5B1A2B; --vinho:#3E121E; --rose:#9E5A66; --marfim:#F5EFE6; --dourado:#C9A24B; --fg:#2A0E15; --muted:#6E4A52; --line:rgba(91,26,43,.16); }
+  *{box-sizing:border-box; -webkit-print-color-adjust:exact; print-color-adjust:exact}
+  html,body{margin:0;padding:0}
+  body{font-family:"Mulish",Arial,sans-serif;color:var(--fg);background:#fff}
+  .page{width:210mm;height:297mm;page-break-after:always;position:relative;overflow:hidden;background:var(--marfim);padding:24mm 22mm}
+  .page:last-child{page-break-after:auto}
+  .pg-dark{background:var(--bordo);color:var(--marfim)}
+  .pg-vinho{background:var(--vinho);color:var(--marfim)}
+  h1,h2,h3,.serif{font-family:"Playfair Display",Georgia,serif}
+  .kicker{font-size:9pt;letter-spacing:.28em;text-transform:uppercase;color:var(--dourado);font-weight:700;margin:0 0 6mm}
+  h2{font-size:26pt;color:var(--bordo);margin:0 0 4mm;font-weight:600;line-height:1.05}
+  .pg-dark h2,.pg-vinho h2{color:var(--marfim)}
+  p{font-size:10.5pt;line-height:1.6;color:var(--fg);max-width:150mm}
+  .pg-dark p,.pg-vinho p{color:#Efe3d4}
+  .muted{color:var(--muted)}
+  .rule{height:1px;background:var(--dourado);width:34mm;margin:5mm 0}
+  .foot{position:absolute;left:22mm;right:22mm;bottom:14mm;display:flex;justify-content:space-between;font-size:8pt;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .pg-dark .foot,.pg-vinho .foot{color:#C7A9A0}
+  .num{font-variant-numeric:tabular-nums}
+  /* cover */
+  .cover{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;height:100%}
+  .cover img{width:62mm;height:62mm;margin-bottom:12mm}
+  .cover .bb{font-size:9pt;letter-spacing:.4em;text-transform:uppercase;color:var(--dourado);font-weight:700}
+  .cover h1{font-size:34pt;color:var(--marfim);margin:6mm 0 2mm;font-weight:600;letter-spacing:.04em}
+  .cover .t{font-size:10pt;letter-spacing:.3em;text-transform:uppercase;color:#E7C9A0}
+  .cover .y{position:absolute;bottom:18mm;font-size:8.5pt;letter-spacing:.2em;text-transform:uppercase;color:#C7A9A0}
+  /* toc */
+  .toc{list-style:none;padding:0;margin:8mm 0 0}
+  .toc li{display:flex;justify-content:space-between;padding:3.4mm 0;border-bottom:1px solid var(--line);font-size:11pt}
+  .toc li span:first-child{font-weight:600}
+  .toc .n{color:var(--dourado);font-weight:700}
+  /* logo grid */
+  .lg{display:grid;grid-template-columns:1fr 1fr;gap:8mm;margin-top:6mm}
+  .box{border:1px solid var(--line);border-radius:4mm;height:62mm;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3mm;background:#fff}
+  .box.dark{background:var(--bordo)}
+  .box img{max-width:70%;max-height:64%}
+  .box .cap{font-size:8pt;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .box.dark .cap{color:#D9C7B0}
+  .wmimg{max-width:84%!important}
+  /* color */
+  .cols{display:grid;grid-template-columns:repeat(5,1fr);gap:5mm;margin-top:6mm}
+  .sw .chip{height:38mm;border-radius:3mm;border:1px solid var(--line)}
+  .sw .nm{font-weight:700;font-size:9.5pt;margin-top:3mm}
+  .sw .hx{font-size:8.5pt;color:var(--muted);font-variant-numeric:tabular-nums}
+  .sw .use{font-size:8pt;color:var(--muted);margin-top:1mm;line-height:1.3}
+  table.ct{width:100%;border-collapse:collapse;margin-top:8mm;font-size:9.5pt}
+  table.ct th,table.ct td{text-align:left;padding:2.6mm 2mm;border-bottom:1px solid var(--line)}
+  table.ct th{font-size:8pt;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:700}
+  .badge{font-size:8pt;font-weight:700;padding:.6mm 2.4mm;border-radius:6mm}
+  .ok{background:rgba(60,130,70,.15);color:#2f7d46} .warn{background:rgba(201,162,75,.2);color:#9b7b2f} .bad{background:rgba(160,40,50,.14);color:#b23648}
+  /* type specimens */
+  .spec{border:1px solid var(--line);border-radius:4mm;padding:8mm;margin-top:6mm;background:#fff}
+  .spec .lab{font-size:8pt;letter-spacing:.14em;text-transform:uppercase;color:var(--dourado);font-weight:700}
+  .spec .big{font-family:"Playfair Display",serif;color:var(--bordo);font-size:30pt;margin:2mm 0 0;font-weight:600}
+  .scale{display:flex;gap:7mm;align-items:baseline;flex-wrap:wrap;margin-top:4mm}
+  .scale span{font-family:"Playfair Display",serif;color:var(--bordo);line-height:1}
+  /* do/dont */
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:8mm;margin-top:6mm}
+  .pan{border:1px solid var(--line);border-radius:4mm;padding:6mm 7mm;background:#fff}
+  .pan h3{font-family:"Mulish";font-size:9pt;letter-spacing:.1em;text-transform:uppercase;margin:0 0 3mm}
+  .pan.do h3{color:#2f7d46} .pan.dont h3{color:#b23648}
+  .pan ul{margin:0;padding-left:5mm} .pan li{font-size:9.5pt;margin:2mm 0}
+  /* voice */
+  .vt{width:100%;border-collapse:collapse;margin-top:5mm;font-size:9.5pt}
+  .vt th,.vt td{text-align:left;padding:2.6mm 3mm;border-bottom:1px solid var(--line);vertical-align:top}
+  .vt th{font-size:8pt;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  /* instagram mock */
+  .ig{display:flex;gap:7mm;align-items:center;margin-top:6mm;border:1px solid var(--line);border-radius:4mm;padding:7mm;background:#fff}
+  .ig .av{width:26mm;height:26mm;border-radius:50%;object-fit:cover;border:1.5mm solid var(--dourado)}
+  .ig .nm{font-weight:800;font-size:10pt}
+  .ig .hd{color:var(--muted);font-size:9pt}
+  .ig .bio{font-size:9pt;margin-top:2mm;line-height:1.5}
+  .feed{display:grid;grid-template-columns:repeat(3,1fr);gap:2mm;margin-top:6mm}
+  .tile{aspect-ratio:4/5;border-radius:2mm;display:flex;align-items:flex-end;padding:3mm;font-family:"Playfair Display",serif;font-size:7pt;color:var(--marfim)}
+  .tile.b{background:var(--bordo)} .tile.m{background:var(--marfim);color:var(--bordo);border:1px solid var(--line)} .tile.v{background:var(--vinho)}
+</style>
+
+<!-- 1. COVER -->
+<div class="page pg-vinho">
+  <div class="cover">
+    <span class="bb">Brand Book</span>
+    <img src="__SELO_BORDO__" alt="Selo EF">
+    <h1>Elisangela Fonseca</h1>
+    <div class="t">Direito Previdenciário</div>
+    <div class="y">Manual de identidade da marca · 2026 · OAB/RJ 154.954</div>
+  </div>
+</div>
+
+<!-- 2. SUMÁRIO -->
+<div class="page">
+  <p class="kicker">Sumário</p>
+  <h2>O que há neste manual</h2>
+  <div class="rule"></div>
+  <ul class="toc">
+    <li><span>Essência e posicionamento</span><span class="n">01</span></li>
+    <li><span>Logotipo — versões</span><span class="n">02</span></li>
+    <li><span>Logotipo — uso correto e proteção</span><span class="n">03</span></li>
+    <li><span>Cores</span><span class="n">04</span></li>
+    <li><span>Tipografia</span><span class="n">05</span></li>
+    <li><span>Grafismo e fotografia</span><span class="n">06</span></li>
+    <li><span>Tom de voz</span><span class="n">07</span></li>
+    <li><span>Aplicações — Instagram</span><span class="n">08</span></li>
+    <li><span>Conduta e compliance</span><span class="n">09</span></li>
+  </ul>
+  <div class="foot"><span>Elisangela Fonseca</span><span>Brand Book</span></div>
+</div>
+
+<!-- 3. ESSÊNCIA -->
+<div class="page">
+  <p class="kicker">01 · Essência</p>
+  <h2>Clareza que protege</h2>
+  <div class="rule"></div>
+  <p><strong>Posicionamento.</strong> Elisangela Fonseca é a marca; o Direito Previdenciário é o território de autoridade. O nome é o guarda-chuva; os benefícios (aposentadorias, BPC/LOAS, incapacidade, maternidade, acidente, rural, especial) são territórios internos.</p>
+  <p><strong>Essência.</strong> Traduzir o INSS em clareza e segurança, com acolhimento. Autoridade pela contenção, não pelo peso — um luxo discreto (<em>quiet luxury</em>) em que o bordô assina e o dourado entra como fio de ourivesaria.</p>
+  <p><strong>Personalidade.</strong> Acolhedora, sofisticada, segura, didática, feminina, sóbria. Nunca agressiva, sensacionalista ou fria.</p>
+  <p><strong>Arquétipo.</strong> Cuidadora (protege, orienta) + Sábia (domínio técnico, clareza).</p>
+  <p><strong>Valores.</strong> Clareza sem juridiquês · cuidado com quem chega com medo · técnica atualizada · ética acima de tudo · constância.</p>
+  <div class="foot"><span>Essência e posicionamento</span><span class="num">01</span></div>
+</div>
+
+<!-- 4. LOGO VERSIONS -->
+<div class="page">
+  <p class="kicker">02 · Logotipo</p>
+  <h2>O sistema de marca</h2>
+  <div class="rule"></div>
+  <p>O <strong>Selo EF</strong> é a marca principal — ideal onde o espaço é pequeno e redondo (avatar, favicon, selo). O <strong>Masthead</strong> (nome por extenso) é a assinatura para site, papelaria e documentos.</p>
+  <div class="lg">
+    <div class="box"><img src="__SELO_MARFIM__" alt="Selo marfim"><div class="cap">Selo · principal (sobre claro)</div></div>
+    <div class="box dark"><img src="__SELO_BORDO__" alt="Selo negativo"><div class="cap">Selo · negativo (sobre bordô)</div></div>
+    <div class="box dark"><img src="__AVATAR_EF__" alt="Avatar EF"><div class="cap">Monograma · avatar / favicon</div></div>
+    <div class="box"><img class="wmimg" src="__WORDMARK__" alt="Wordmark"><div class="cap">Masthead · assinatura</div></div>
+  </div>
+  <div class="foot"><span>Logotipo — versões</span><span class="num">02</span></div>
+</div>
+
+<!-- 5. LOGO USAGE -->
+<div class="page">
+  <p class="kicker">03 · Logotipo</p>
+  <h2>Uso correto</h2>
+  <div class="rule"></div>
+  <p><strong>Área de proteção.</strong> Mantenha ao redor do selo uma margem livre igual à altura da letra “E” do monograma. Nada invade esse espaço.</p>
+  <p><strong>Tamanho mínimo.</strong> Selo completo (com microtexto) a partir de 20&nbsp;mm ou 150&nbsp;px. Abaixo disso, use o monograma simples (avatar) — legível a 32&nbsp;px.</p>
+  <p><strong>Uma cor.</strong> A marca funciona só em bordô, sem o dourado. O ouro é acento, não estrutura.</p>
+  <div class="two">
+    <div class="pan do"><h3>Fazer</h3><ul>
+      <li>Usar sobre marfim, bordô ou foto com área calma.</li>
+      <li>Respeitar a área de proteção e o tamanho mínimo.</li>
+      <li>Dourado só no filete e nos pontos.</li>
+    </ul></div>
+    <div class="pan dont"><h3>Evitar</h3><ul>
+      <li>Distorcer, inclinar ou mudar as proporções.</li>
+      <li>Trocar as cores ou preencher o “EF” de dourado.</li>
+      <li>Aplicar sombra, contorno ou gradiente.</li>
+      <li>Fundo poluído que comprometa a leitura.</li>
+    </ul></div>
+  </div>
+  <div class="foot"><span>Logotipo — uso correto</span><span class="num">03</span></div>
+</div>
+
+<!-- 6. COLOR -->
+<div class="page">
+  <p class="kicker">04 · Cores</p>
+  <h2>Paleta</h2>
+  <div class="rule"></div>
+  <p>Bordô é a cor de assinatura; marfim é a base de leitura; vinho é o “quase-preto”. O dourado é acento (teto de 10%). Rosé é apoio.</p>
+  <div class="cols">
+    <div class="sw"><div class="chip" style="background:#5B1A2B"></div><div class="nm">Bordô</div><div class="hx">#5B1A2B</div><div class="use">Títulos, assinatura</div></div>
+    <div class="sw"><div class="chip" style="background:#3E121E"></div><div class="nm">Vinho</div><div class="hx">#3E121E</div><div class="use">Texto, profundidade</div></div>
+    <div class="sw"><div class="chip" style="background:#9E5A66"></div><div class="nm">Rosé</div><div class="hx">#9E5A66</div><div class="use">Apoio (texto grande)</div></div>
+    <div class="sw"><div class="chip" style="background:#F5EFE6"></div><div class="nm">Marfim</div><div class="hx">#F5EFE6</div><div class="use">Fundo base</div></div>
+    <div class="sw"><div class="chip" style="background:#C9A24B"></div><div class="nm">Dourado</div><div class="hx">#C9A24B</div><div class="use">Acento, filete</div></div>
+  </div>
+  <table class="ct">
+    <thead><tr><th>Combinação de texto</th><th>Contraste</th><th>WCAG</th></tr></thead>
+    <tbody>
+      <tr><td>Vinho sobre marfim (corpo)</td><td class="num">15.7</td><td><span class="badge ok">AAA</span></td></tr>
+      <tr><td>Bordô sobre marfim (títulos)</td><td class="num">11.3</td><td><span class="badge ok">AAA</span></td></tr>
+      <tr><td>Marfim sobre bordô</td><td class="num">11.3</td><td><span class="badge ok">AAA</span></td></tr>
+      <tr><td>Dourado sobre bordô</td><td class="num">5.4</td><td><span class="badge warn">AA</span></td></tr>
+      <tr><td>Dourado sobre marfim</td><td class="num">2.1</td><td><span class="badge bad">Reprova</span></td></tr>
+    </tbody>
+  </table>
+  <p class="muted" style="font-size:9pt;margin-top:4mm">Regra: nunca texto dourado sobre fundo claro. Dourado como texto só sobre fundo escuro.</p>
+  <div class="foot"><span>Cores</span><span class="num">04</span></div>
+</div>
+
+<!-- 7. TYPOGRAPHY -->
+<div class="page">
+  <p class="kicker">05 · Tipografia</p>
+  <h2>Tipografia</h2>
+  <div class="rule"></div>
+  <p><strong>Playfair Display</strong> para títulos e o nome — serifada didone, elegante e de alto contraste. <strong>Mulish</strong> para texto e interface — humanista, limpa e muito legível (importante para o público idoso).</p>
+  <div class="spec">
+    <div class="lab">Playfair Display · títulos</div>
+    <p class="big">Seus direitos do INSS, com clareza.</p>
+    <div class="scale"><span style="font-size:30pt">Aa</span><span style="font-size:22pt">Aa</span><span style="font-size:16pt">Aa</span><span style="font-size:12pt">Aa</span></div>
+  </div>
+  <div class="spec">
+    <div class="lab">Mulish · texto e interface</div>
+    <p style="margin:2mm 0 0">Entenda como funciona a aposentadoria, o auxílio por incapacidade, o BPC/LOAS e o salário-maternidade, sem juridiquês. Corpo em 10–11pt, entrelinha 1.6, muito respiro. ABCDEFGHIJ · abcdefghij · 0123456789.</p>
+  </div>
+  <p class="muted" style="font-size:9pt;margin-top:4mm">Ambas no Google Fonts (licença livre) e no Canva. Playfair só em títulos; corpo sempre em Mulish.</p>
+  <div class="foot"><span>Tipografia</span><span class="num">05</span></div>
+</div>
+
+<!-- 8. GRAPHICS + PHOTO -->
+<div class="page">
+  <p class="kicker">06 · Grafismo e fotografia</p>
+  <h2>Grafismo e fotografia</h2>
+  <div class="rule"></div>
+  <p><strong>Assinatura gráfica.</strong> Um filete dourado fino é o elemento recorrente — divisórias, detalhes, bordas de card. Iconografia em linha fina, peso uniforme, dourada como acento. Sem balança, martelo, coluna ou símbolos jurídicos óbvios.</p>
+  <p><strong>Fotografia.</strong> Retratos profissionais reais da Elisangela, luz suave, fundo na paleta (bordô/marfim), expressão acolhedora e confiante. Espaço para texto nas composições. O rosto é sempre foto real, nunca gerado por IA.</p>
+  <div class="ig" style="justify-content:center">
+    <img class="av" src="__FOTO__" alt="Retrato Elisangela" style="width:52mm;height:52mm">
+  </div>
+  <p class="muted" style="font-size:9pt;margin-top:4mm">Acessibilidade visual: corpos grandes, alto contraste, legendas em todo vídeo.</p>
+  <div class="foot"><span>Grafismo e fotografia</span><span class="num">06</span></div>
+</div>
+
+<!-- 9. VOICE -->
+<div class="page">
+  <p class="kicker">07 · Tom de voz</p>
+  <h2>Como a marca fala</h2>
+  <div class="rule"></div>
+  <p>Como uma advogada acolhedora que explica para alguém querido: com respeito, clareza e sem jargão. Autoridade que tranquiliza, não que intimida.</p>
+  <table class="vt">
+    <thead><tr><th>Atributo</th><th>Faz</th><th>Não faz</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Claro</strong></td><td>Frases curtas, uma ideia, exemplos</td><td>Juridiquês, citar artigo sem explicar</td></tr>
+      <tr><td><strong>Acolhedor</strong></td><td>Reconhece o medo, usa “você”</td><td>Tom frio ou alarmista</td></tr>
+      <tr><td><strong>Seguro</strong></td><td>Afirma o que sabe, mostra o caminho</td><td>Promete resultado, garante prazo</td></tr>
+      <tr><td><strong>Sóbrio</strong></td><td>Elegante, sem sensacionalismo</td><td>Caps-lock, clickbait, urgência falsa</td></tr>
+    </tbody>
+  </table>
+  <p style="margin-top:5mm"><strong>Exemplo.</strong> “O INSS negou seu benefício? Calma — negativa não é o fim da linha. Deixa eu te explicar.”</p>
+  <p class="muted" style="font-size:9pt">Proibido: “garanto”, “100%”, “aprovação certa”, “rápido e fácil”, “vagas limitadas”.</p>
+  <div class="foot"><span>Tom de voz</span><span class="num">07</span></div>
+</div>
+
+<!-- 10. APPLICATIONS -->
+<div class="page">
+  <p class="kicker">08 · Aplicações</p>
+  <h2>Instagram</h2>
+  <div class="rule"></div>
+  <div class="ig">
+    <img class="av" src="__FOTO__" alt="Avatar">
+    <div>
+      <div class="nm">Elisangela Fonseca | Advogada Previdenciária</div>
+      <div class="hd">@elisangelafonseca.adv</div>
+      <div class="bio"><strong>Advogada previdenciária · OAB/RJ 154.954</strong><br>Direitos do INSS explicados sem juridiquês<br>Aposentadoria · BPC/LOAS · Incapacidade · Maternidade<br>Niterói/RJ · presencial e online</div>
+    </div>
+  </div>
+  <div class="feed">
+    <div class="tile b">Você não precisa enfrentar o INSS sozinho</div>
+    <div class="tile m">Por que o INSS nega o auxílio</div>
+    <div class="tile v">3 direitos que muita gente deixa passar</div>
+    <div class="tile m">Confira seu CNIS antes de pedir</div>
+    <div class="tile b">Quem tem direito ao BPC/LOAS</div>
+    <div class="tile m">Salário-maternidade sem carteira</div>
+  </div>
+  <p class="muted" style="font-size:9pt;margin-top:5mm">Capas em bordô, conteúdo em marfim, CTAs em vinho. Feed como biblioteca de autoridade.</p>
+  <div class="foot"><span>Aplicações — Instagram</span><span class="num">08</span></div>
+</div>
+
+<!-- 11. COMPLIANCE -->
+<div class="page">
+  <p class="kicker">09 · Conduta</p>
+  <h2>Compliance e ética</h2>
+  <div class="rule"></div>
+  <p>Toda peça pública (post, anúncio, site, landing, CTA) é informativa e educativa, e passa por revisão jurídica antes de publicar. A marca respeita os limites do marketing jurídico (Provimento 205/2021 e normas posteriores) e a LGPD.</p>
+  <div class="two">
+    <div class="pan do"><h3>Permitido</h3><ul>
+      <li>Explicar direitos e caminhos.</li>
+      <li>CTA educativo: salvar, saber mais, tirar dúvida.</li>
+      <li>Identificação: advogada · OAB/RJ 154.954.</li>
+    </ul></div>
+    <div class="pan dont"><h3>Proibido</h3><ul>
+      <li>Promessa de resultado, prazo ou valor.</li>
+      <li>Captação agressiva e urgência artificial.</li>
+      <li>Expor caso/cliente sem autorização.</li>
+    </ul></div>
+  </div>
+  <p class="muted" style="font-size:9pt;margin-top:5mm">Dados pessoais (saúde, deficiência) tratados com base legal, consentimento e sigilo.</p>
+  <div class="foot"><span>Conduta e compliance</span><span class="num">09</span></div>
+</div>
+
+<!-- 12. BACK -->
+<div class="page pg-dark">
+  <div class="cover">
+    <img src="__AVATAR_EF__" alt="EF" style="width:40mm;height:40mm">
+    <h1 style="font-size:20pt;margin-top:8mm">Elisangela Fonseca</h1>
+    <div class="t">Advogada Previdenciária</div>
+    <div class="y">@elisangelafonseca.adv · elisangelafonseca.adv.br · OAB/RJ 154.954 · Niterói/RJ</div>
+  </div>
+</div>

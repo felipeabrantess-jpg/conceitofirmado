@@ -55,4 +55,15 @@ Arquivos de marca do projeto Elisangela Fonseca. Especificações em `../direcao
 > (microtexto). Dourado só no filete. 🎯 Decisão de design **pendente de validação da cliente**
 > (`docs/17`). ⏳ Exportar SVG final a partir do `logo-build.html` quando aprovado.
 
+---
+
+## Brand Book (manual de identidade) — 09/10/2026
+| Arquivo | O que é |
+|---------|---------|
+| `brandbook-elisangela-fonseca.pdf` | **Brand book em PDF colorido** — 12 páginas A4 (capa, sumário, essência, logotipo, uso, cores+WCAG, tipografia, grafismo/foto, tom de voz, Instagram, compliance, contracapa) |
+| `brandbook-build.html` | **Fonte do brand book** (HTML + Playfair/Mulish; imagens por token base64) — editar aqui e re-renderizar em A4 |
+
+> 🎯 Documento de design **pendente de validação da cliente** (logo e paleta em `docs/17`).
+> Produzido no padrão de guidelines de marca; a ser atualizado quando o logotipo for aprovado.
+
 ⏳ A produzir: capas de destaque, templates de carrossel.
