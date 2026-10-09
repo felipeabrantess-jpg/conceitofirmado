@@ -61,36 +61,81 @@
 - Ao exportar vetor final, **converter o texto em curvas** para não depender da fonte.
 - ⏳ Gerar os arquivos a partir desta especificação.
 
-## 9. Prompts premium para o GPT (gerar e depois refinar em vetor)
-> ⚠️ O gerador erra texto. Se o nome sair com letra trocada, gere só o **emblema/monograma** e
-> componha o nome em vetor/Canva com Playfair Display. O emblema é o que o GPT faz bem.
+## 9. Exploração premium (design-squad: design-chief + visual-generator) — v2
 
-**Opção A — Emblema/monograma (recomendado, mais confiável)**
-`Emblema de marca de luxo para uma advogada, estética de alta joalheria e alta-costura. Monograma circular elegante com as letras "E" e "F" entrelaçadas, desenhadas em serifada didone de alto contraste, traços finos e refinados, dentro de um aro circular delicado com um filete dourado tipo foil metálico sutil. Paleta: bordô profundo #5B1A2B e dourado #C9A24B sobre fundo marfim #F5EFE6. Minimalista, muito espaço em branco, atemporal, acabamento premium, vetorial e limpo, simétrico, centralizado, alta resolução. SEM balança, martelo, coluna ou símbolos jurídicos; sem gradientes berrantes; sem texto além das letras E e F.`
+🎯 **DECISÃO DE DESIGN pendente de validação da cliente.** Território: *quiet luxury* —
+autoridade pela contenção, não pelo peso. Bordô como cor de assinatura, dourado como fio de
+ourivesaria (≤10%), acolhimento pela forma (curvas, respiro). Parecer feito por uma casa de
+design, não por template.
 
-**Opção B — Logotipo completo (nome + monograma)**
-`Logotipo de luxo para "ELISANGELA FONSECA", advogada previdenciária, identidade sofisticada e feminina, estética de maison de alto padrão. No topo, um monograma circular com as letras "E" e "F" entrelaçadas em serifada didone, aro dourado fino (foil sutil). Abaixo, o nome em serifada fina e elegante, com amplo espaçamento entre letras: "ELISANGELA FONSECA". Em uma linha menor: "ADVOGADA PREVIDENCIÁRIA". Paleta: bordô profundo #5B1A2B e marfim #F5EFE6, dourado #C9A24B só nos filetes. Fundo marfim liso. Minimalista, premium, atemporal, vetorial, centralizado, alta resolução. Escreva o texto EXATAMENTE "ELISANGELA FONSECA". SEM balança, martelo, coluna ou clichês jurídicos.`
+> Tipografia: Playfair Display (sistema). Alternativas premium que elevam: Canela, GT Super
+> Display, Reckless, GT Sectra. ⚠️ **GPT erra texto** — gere o **símbolo** e fixe nome/OAB em
+> vetor com a fonte real; converta tudo em curvas no arquivo final. Gerar 1:1, alta resolução.
 
-**Opção C — Selo/crista moderna (mais sofisticado)**
-`Selo de marca premium para uma advogada, estilo monograma de maison de luxo. Monograma "EF" em serifada didone de alto contraste, centralizado, emoldurado por um anel duplo fino dourado com um pequeno detalhe geométrico art déco minimalista no topo e na base. Bordô profundo #5B1A2B e dourado #C9A24B sobre marfim #F5EFE6. Elegante, discreto, atemporal, vetorial, simétrico, alta resolução. Sem símbolos jurídicos; sem texto além de "EF".`
+### Direção A — Selo EF (monograma de maison) · ⭐ PRINCIPAL recomendada
+Monograma "EF" entrelaçado (haste central compartilhada) dentro de anel duplo fino. Resolve de
+nascença avatar circular e favicon 32px. Dourado só no filete interno.
+```
+Assunto: um selo circular monograma de luxo com as iniciais entrelaçadas "EF", para a marca pessoal de uma advogada.
+Estilo: identidade de maison de alta-costura, "quiet luxury", ourivesaria de papelaria fina, elegante e minimalista.
+Referência: emblemas de casas de moda e hotelaria de luxo, lacres em cera, monogramas gravados; Art Déco refinado e tipografia didone de alto contraste (sem copiar marca existente).
+Composição: iniciais E e F entrelaçadas compartilhando a haste central, centralizadas em um anel duplo fino; simetria perfeita, muito respiro.
+Cor: fundo marfim #F5EFE6; monograma e anel externo em bordô #5B1A2B; um único filete fino dourado #C9A24B no anel interno (dourado < 10%).
+Técnico: 1:1, logotipo vetorial plano, altíssima resolução, bordas nítidas.
+NEGATIVOS: sem balança, martelo, coluna, espada, livro de leis; sem preto puro; sem gradiente; sem sombra 3D; sem mockup; sem foto; sem clichês jurídicos.
+```
 
-> Depois de gerar, para refinar: peça "fundo marfim perfeitamente liso", "linhas douradas mais
-> finas", "mais espaço em branco" ou "versão em uma cor (só bordô)". Variações úteis: fundo
-> bordô com monograma marfim; monograma dourado sobre bordô.
+### Direção B — Masthead editorial (wordmark) · ⭐ assinatura no mesmo sistema
+Nome "ELISANGELA FONSECA" tratado como capa de revista de moda. O nome é a marca. Melhor
+feito direto em vetor (o GPT serve só para sentir clima).
+```
+Assunto: logotipo wordmark editorial com o nome "ELISANGELA FONSECA" em duas linhas, estilo cabeçalho de revista de moda de luxo.
+Estilo: tipografia editorial de alta-costura, serifa didone de altíssimo contraste, "quiet luxury".
+Referência: mastheads de revistas de moda premium; didone clássica com hastes finas e grossas contrastantes (sem copiar título existente).
+Composição: nome centralizado, caixa-alta, espaçamento amplo; uma linha fina dourada abaixo; pequena linha de apoio sans-serif caixa-alta; muito espaço em branco.
+Cor: fundo marfim #F5EFE6; tipografia bordô #5B1A2B; único filete dourado #C9A24B (< 10%).
+Técnico: 1:1, vetorial plano, altíssima resolução.
+NEGATIVOS: sem símbolos, ícones, balança, martelo, coluna; sem preto puro; sem gradiente; sem sombra; sem mockup; sem clichês jurídicos.
+```
 
-## 10. Direções premium (método visual-generator do design-squad) — v2
-> Três direções DISTINTAS, não variações da mesma. Estrutura de prompt: assunto · estilo ·
-> referência · composição · cor · técnico · negativos. ⚠️ GPT erra texto; o nome final é
-> fixado em vetor. Gerar 1:1, alta resolução.
+### Direção C — Insígnia (heráldica moderna)
+Cartela/escudo geométrico de linha fina com "EF" — patrimônio sem poeira. Risco: parecer
+institucional/concurso. Números da OAB sempre em vetor.
+```
+Assunto: insígnia heráldica moderna e minimalista (cartela estilizada) com o monograma "EF", para uma advogada de alto padrão.
+Estilo: heráldica contemporânea de linha fina, selo de certificação sofisticado, luxo discreto, geométrico e simétrico.
+Referência: crests modernos de marcas de luxo reinterpretados em traço minimalista; Art Déco geométrico (sem copiar brasão existente).
+Composição: cartela vertical de cantos suaves em linha única; "EF" centralizado no terço superior; filete dourado dividindo o monograma de uma microlinha; dois pequenos losangos nas laterais; simetria e respiro.
+Cor: fundo marfim #F5EFE6; cartela e monograma em vinho #3E121E e bordô #5B1A2B; filete e losangos em dourado #C9A24B (< 10%).
+Técnico: 1:1, vetorial plano, traço de espessura constante, altíssima resolução.
+NEGATIVOS: sem balança, martelo, coluna, espada, leão, coroa pesada, brasão medieval; sem preto puro; sem gradiente; sem 3D; sem mockup; sem clichês jurídicos.
+```
 
-**Direção 1 — Selo de maison (emblema couture)** · o mais seguro no GPT
-`Emblema de marca de luxo. Monograma "E" e "F" entrelaçados em serifada didone de altíssimo contraste, traços capilares. Referência: monogramas de maison de alta-costura e restrição Art Déco. Composição: circular, simétrico, centralizado, muito respiro, dentro de um anel fino com pequeno detalhe geométrico déco no topo. Cor: bordô profundo #5B1A2B, filetes em dourado #C9A24B tipo foil metálico, fundo marfim #F5EFE6. Técnico: vetorial, nítido, 1:1, alta resolução. Negativos: sem balança, martelo, coluna, sem gradiente berrante, sem texto além de E e F, sem sombra pesada.`
+### Direção D — Ramo de louro (botânico sutil) · rota B de maior calor
+Louro = honra e mérito (não é clichê jurídico), em traço fino acentuando o "EF". A mais quente
+e feminina; boa se o acolhimento precisar de mais calor.
+```
+Assunto: símbolo de logotipo com um ramo de louro minimalista estilizado acentuando o monograma "EF" de uma advogada, elegante e feminino.
+Estilo: botânico de linha fina, luxo discreto de cosmética e joalheria premium, minimalista.
+Referência: ilustração botânica de linha fina de marcas de beleza de luxo; folhas de louro como símbolo de honra; Art Nouveau depurado (sem copiar marca existente).
+Composição: duas hastes de louro espelhadas emoldurando o monograma "EF" centralizado (ou uma haste assimétrica ao lado); traço fino constante; muito respiro.
+Cor: fundo marfim #F5EFE6; monograma bordô #5B1A2B; louro em bordô com pontas em dourado #C9A24B (< 10%).
+Técnico: 1:1, vetorial plano, linhas delicadas, altíssima resolução.
+NEGATIVOS: sem balança, martelo, coluna, espada, livro, coroa pesada, flores exageradas; sem preto puro; sem gradiente; sem 3D; sem textura realista; sem mockup; sem clichês jurídicos.
+```
 
-**Direção 2 — Wordmark editorial (masthead de revista)** · fixar o nome em vetor
-`Wordmark de luxo para "ELISANGELA FONSECA". Estilo: didone de alto contraste (energia de masthead de revista de moda premium), espaçamento entre letras amplo e impecável, hairline dourada sob o nome. Referência: tipografia editorial de luxo, letterpress com relevo sutil. Composição: centralizado, altíssimo respiro, duas linhas (nome + "ADVOGADA PREVIDENCIÁRIA" menor e espaçado). Cor: bordô #5B1A2B sobre marfim #F5EFE6, filete dourado #C9A24B. Técnico: 1:1, alta resolução. Negativos: sem ícone, sem símbolo jurídico, sem gradiente. Escreva EXATAMENTE "ELISANGELA FONSECA".` (recomendado: compor o nome em fonte real; usar o GPT só para referência de clima.)
+### Recomendação final
+🎯 **Principal: Direção A (Selo EF)** + **Direção B (Masthead) como wordmark de assinatura** —
+juntos formam o lockup de uma casa de marca (selo onde o espaço é pequeno/redondo; wordmark no
+site e papelaria). **D** é a rota B de maior calor; **C** é a mais arriscada (ar institucional).
+Pendente de validação da cliente antes de virar ✅.
 
-**Direção 3 — Insígnia heráldica moderna (legado + confiança)**
-`Insígnia de marca sofisticada e atemporal. Escudo/brasão minimalista e moderno com o monograma "EF" ao centro em serifada didone, emoldurado por linhas douradas finas e um único florão botânico discreto (folha de louro estilizada) muito sutil. Referência: heráldica contemporânea de luxo, sobriedade. Composição: simétrica, vertical, centralizada, respiro generoso. Cor: bordô #5B1A2B e dourado #C9A24B sobre marfim #F5EFE6. Técnico: vetorial, 1:1, alta resolução. Negativos: sem balança, martelo, coluna, espada; sem aparência de carimbo pesado; sem texto além de "EF".`
-
-> Fluxo de qualidade (design-chief): gerar conceitos → revisar legibilidade em pequeno
-> (favicon 32px) e contraste → reconstruir o escolhido em vetor com o nome em curvas.
+### Checklist antes de fechar o vetor
+- [ ] Legível e distinto a 32px (favicon/avatar) sem fundir hastes.
+- [ ] Funciona em 1 cor (só bordô), sem depender do dourado.
+- [ ] Dourado ≤10%, nunca carregando informação essencial.
+- [ ] Zero proibições (balança/martelo/coluna/espada/livro; sem preto puro; sem gradiente).
+- [ ] Texto convertido em curvas; nome e "OAB/RJ 154.954" conferidos letra a letra (nunca do
+      gerador).
+- [ ] Exportar pacote: SVG + PNG transparente + versões marfim/negativa + recorte circular.
+- [ ] Nada inventado da cliente (ex.: "EST. 2026" só se confirmado). Compliance: `docs/13`.
