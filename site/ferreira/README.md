@@ -5,8 +5,18 @@
 > Última atualização: 09/10/2026.
 
 ## Status
-- ✅ **Proposta visual (etapa 1):** abertura editorial (hero) + 1 seção interna (Áreas de atuação).
-- ⏳ Aguardando aprovação da direção antes de expandir o site completo.
+- ✅ **Proposta visual (etapa 1):** abertura editorial (hero) + Áreas de atuação (`proposal.html`).
+- ✅ **Site completo (etapa 2):** `index.html` — direção **Bordô noturno** (fundos escuros
+  bordô/grafite + dourado), estrutura inspirada na referência enviada (site Maier), traduzida
+  para a identidade feminina da Elisângela. Seções: hero, manifesto, como trabalho, áreas,
+  "mais que advogada, uma aliada", passo a passo, CTA, sobre, atendimento (presencial+online),
+  FAQ, contato, rodapé. Responsivo, animações discretas, `prefers-reduced-motion`, menu mobile,
+  filtro de áreas, acordeão de FAQ, âncoras com offset de header. Revisado em desktop e mobile.
+- ⏳ Aguardando dados reais (contatos, OAB, endereço) e revisão jurídica para publicar.
+
+> Referência: a estrutura veio do site do criminalista Yonatan Maier (preto+dourado,
+> masculino). **Não** foi copiada — só a arquitetura/profundidade foi reaproveitada, na pele
+> bordô/marfim/grafite/dourado da Elisângela (decisão da cliente: "bordô noturno dramático").
 
 ## Arquivos
 | Arquivo | O que é |
