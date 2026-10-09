@@ -41,4 +41,18 @@ Arquivos de marca do projeto Elisangela Fonseca. Especificações em `../direcao
 
 ---
 
-⏳ A produzir: logotipo (vetor), monograma EF, capas de destaque, templates de carrossel.
+## Logotipo (Selo EF + Masthead) — construído em vetor
+| Arquivo | O que é |
+|---------|---------|
+| `selo-ef-marfim.png` | Selo EF principal, fundo transparente (sobre claro) |
+| `selo-ef-bordo.png` | Selo EF negativo, sobre bordô |
+| `avatar-ef.png` | Monograma EF para avatar/favicon (bordô, sem microtexto) |
+| `wordmark-ef.png` | Masthead "ELISANGELA FONSECA" (fundo transparente) |
+| `logo-final-elisangela.pdf` | Folha de apresentação do logotipo |
+| `logo-build.html` | **Fonte vetorial** (SVG + Playfair/Mulish) — editar aqui e re-renderizar |
+
+> Construído à mão em SVG (texto exato, não IA). Playfair Display (monograma/nome) + Mulish
+> (microtexto). Dourado só no filete. 🎯 Decisão de design **pendente de validação da cliente**
+> (`docs/17`). ⏳ Exportar SVG final a partir do `logo-build.html` quando aprovado.
+
+⏳ A produzir: capas de destaque, templates de carrossel.
